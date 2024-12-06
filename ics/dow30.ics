@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:5WRqGrX5_ECY3ysSMmTcQ
+UID:xLBd34vaYN6vZSBMfptBr
 SUMMARY:盘后 NKE(耐克)发布财报
-DTSTAMP:20241206T044144Z
+DTSTAMP:20241206T164409Z
 DTSTART;VALUE=DATE:20241219
 DESCRIPTION:财务季度：Nov/2024 \n公司：耐克 \n预计每股收益: $0.64，当前市值: 0.12T。\n\n在股票App查看：
 	 stocks://?symbol=NKE \n在富途查看：https://www.futunn.com/hk/stock/NKE-US 
@@ -21,11 +21,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:P84YLizf2iPBM3G8GCYRV
+UID:1AYzrEDHccfmQarZhDRfq
 SUMMARY: WBA(沃尔格林博姿联合公司)发布财报
-DTSTAMP:20241206T044144Z
+DTSTAMP:20241206T164409Z
 DTSTART;VALUE=DATE:20250102
-DESCRIPTION:财务季度：Nov/2024 \n公司：沃尔格林博姿联合公司 \n预计每股收益: $0.38，当前市值: 7.56B。\n\n在
+DESCRIPTION:财务季度：Nov/2024 \n公司：沃尔格林博姿联合公司 \n预计每股收益: $0.38，当前市值: 7.32B。\n\n在
 	股票App查看： stocks://?symbol=WBA \n在富途查看：https://www.futunn.com/hk/stock/WBA-
 	US 
 STATUS:CONFIRMED
@@ -37,11 +37,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yO2R16P1krM3o54AGtXVt
+UID:VCu26Gs9Q8pUuVntj3zms
 SUMMARY: UNH(联合健康保险)发布财报
-DTSTAMP:20241206T044144Z
+DTSTAMP:20241206T164409Z
 DTSTART;VALUE=DATE:20250110
-DESCRIPTION:财务季度：Dec/2024 \n公司：联合健康保险 \n预计每股收益: $6.74，当前市值: 0.56T。\n\n在股票Ap
+DESCRIPTION:财务季度：Dec/2024 \n公司：联合健康保险 \n预计每股收益: $6.74，当前市值: 0.53T。\n\n在股票Ap
 	p查看： stocks://?symbol=UNH \n在富途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -52,9 +52,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tYkZwcMhxVI7E0tET9WVe
+UID:hwtmDwzb0hkPuLcNKrliw
 SUMMARY:盘前 JPM(摩根大通)发布财报
-DTSTAMP:20241206T044144Z
+DTSTAMP:20241206T164409Z
 DTSTART;VALUE=DATE:20250115
 DESCRIPTION:财务季度：Dec/2024 \n公司：摩根大通 \n预计每股收益: $3.81，当前市值: 0.69T。\n\n在股票App查
 	看： stocks://?symbol=JPM \n在富途查看：https://www.futunn.com/hk/stock/JPM-US 
@@ -67,11 +67,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:g-pxZH_lyMLE_E69gQH9Y
+UID:k1fL9b-JXdjAmVKUDEmbW
 SUMMARY: TRV(旅行者保险)发布财报
-DTSTAMP:20241206T044144Z
+DTSTAMP:20241206T164409Z
 DTSTART;VALUE=DATE:20250117
-DESCRIPTION:财务季度：Dec/2024 \n公司：旅行者保险 \n预计每股收益: $6.38，当前市值: 59.40B。\n\n在股票Ap
+DESCRIPTION:财务季度：Dec/2024 \n公司：旅行者保险 \n预计每股收益: $6.38，当前市值: 59.80B。\n\n在股票Ap
 	p查看： stocks://?symbol=TRV \n在富途查看：https://www.futunn.com/hk/stock/TRV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
