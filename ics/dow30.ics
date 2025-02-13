@@ -6,24 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:T3xvG3JPdEJmS_aCiOEDq
-SUMMARY: KO(可口可乐)发布财报
-DTSTAMP:20250212T164052Z
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:财务季度：Dec/2024 \n公司：可口可乐 \n预计每股收益: $0.51，当前市值: 0.29T。\n\n在股票App查
-	看： stocks://?symbol=KO \n在富途查看：https://www.futunn.com/hk/stock/KO-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:aSvhzD0EXeMphtdaFbpJd
+UID:6KfNQY8MpPZRTRPYtk2cu
 SUMMARY:盘后 CSCO(思科系统)发布财报
-DTSTAMP:20250212T164052Z
+DTSTAMP:20250213T043836Z
 DTSTART;VALUE=DATE:20250212
 DESCRIPTION:财务季度：Jan/2025 \n公司：思科系统 \n预计每股收益: $0.74，当前市值: 0.25T。\n\n在股票App查
 	看： stocks://?symbol=CSCO \n在富途查看：https://www.futunn.com/hk/stock/CSCO-US 
@@ -36,9 +21,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cJn5FmR_5kxTAFPC-LDLU
+UID:K3ukpP-CyynsL6ZG_Qqt1
 SUMMARY:盘前 WMT(沃尔玛)发布财报
-DTSTAMP:20250212T164052Z
+DTSTAMP:20250213T043836Z
 DTSTART;VALUE=DATE:20250220
 DESCRIPTION:财务季度：Jan/2025 \n公司：沃尔玛 \n预计每股收益: $0.64，当前市值: 0.82T。\n\n在股票App查看
 	： stocks://?symbol=WMT \n在富途查看：https://www.futunn.com/hk/stock/WMT-US 
@@ -51,9 +36,9 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:F0riIuQpNsVRSo5aUbhFS
+UID:NmKLXN8S17N3ocXob3JId
 SUMMARY:盘前 HD(家得宝)发布财报
-DTSTAMP:20250212T164052Z
+DTSTAMP:20250213T043836Z
 DTSTART;VALUE=DATE:20250225
 DESCRIPTION:财务季度：Jan/2025 \n公司：家得宝 \n预计每股收益: $3.08，当前市值: 0.41T。\n\n在股票App查看
 	： stocks://?symbol=HD \n在富途查看：https://www.futunn.com/hk/stock/HD-US 
@@ -66,9 +51,9 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LXVeo1TnzAemPvRF8PKEq
+UID:dx1gj0Lw1cIlDP1099OeQ
 SUMMARY:盘后 CRM(赛富时)发布财报
-DTSTAMP:20250212T164052Z
+DTSTAMP:20250213T043836Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025 \n公司：赛富时 \n预计每股收益: $1.95，当前市值: 0.31T。\n\n在股票App查看
 	： stocks://?symbol=CRM \n在富途查看：https://www.futunn.com/hk/stock/CRM-US 
@@ -81,9 +66,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tnMkyPoInWOpDGP40WC5O
+UID:xXTnj4TSQxQDyqJdZMa9O
 SUMMARY: NKE(耐克)发布财报
-DTSTAMP:20250212T164052Z
+DTSTAMP:20250213T043836Z
 DTSTART;VALUE=DATE:20250320
 DESCRIPTION:财务季度：Feb/2025 \n公司：耐克 \n预计每股收益: $0.28，当前市值: 0.11T。\n\n在股票App查看：
 	 stocks://?symbol=NKE \n在富途查看：https://www.futunn.com/hk/stock/NKE-US 
@@ -96,9 +81,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Zz5MMyEiEb7b_4sBhAnVz
+UID:68kKCGOVkuuLp2zHlFfrK
 SUMMARY: WBA(沃尔格林博姿联合公司)发布财报
-DTSTAMP:20250212T164052Z
+DTSTAMP:20250213T043836Z
 DTSTART;VALUE=DATE:20250327
 DESCRIPTION:财务季度：Feb/2025 \n公司：沃尔格林博姿联合公司 \n预计每股收益: $0.53，当前市值: 8.09B。\n\n在
 	股票App查看： stocks://?symbol=WBA \n在富途查看：https://www.futunn.com/hk/stock/WBA-
