@@ -1,5 +1,5 @@
 {
-    "updated": "2025-02-26 11:10:40",
+    "updated": "2025-02-28 11:09:53",
     "groups": [
         {
             "name": "特别关注",
@@ -278,6 +278,18 @@
         {
             "name": "SellPut",
             "list": [
+                {
+                    "symbol": "V",
+                    "name": "Visa"
+                },
+                {
+                    "symbol": "INTU",
+                    "name": "财捷"
+                },
+                {
+                    "symbol": "BRK/B",
+                    "name": "伯克希尔B"
+                },
                 {
                     "symbol": "COST",
                     "name": "好市多"
@@ -589,7 +601,24 @@
         },
         {
             "name": "电脑设备",
-            "list": []
+            "list": [
+                {
+                    "symbol": "DELL",
+                    "name": "戴尔"
+                },
+                {
+                    "symbol": "HPQ",
+                    "name": "惠普"
+                },
+                {
+                    "symbol": "SMCI",
+                    "name": "超微电脑"
+                },
+                {
+                    "symbol": "LOGI",
+                    "name": "罗技"
+                }
+            ]
         },
         {
             "name": "互联网服务",
@@ -995,7 +1024,7 @@
                     "name": "礼来"
                 },
                 {
-                    "symbol": "BRK.B",
+                    "symbol": "BRK/B",
                     "name": "伯克希尔B"
                 }
             ]
@@ -1506,6 +1535,10 @@
             "name": "中概",
             "list": [
                 {
+                    "symbol": "XIACY",
+                    "name": "小米集团ADR"
+                },
+                {
                     "symbol": "YANG",
                     "name": "三倍做空富时中国ETF-Direxion"
                 },
@@ -1712,6 +1745,10 @@
         {
             "name": "etf",
             "list": [
+                {
+                    "symbol": "DXYZ",
+                    "name": "Destiny Tech100 Inc"
+                },
                 {
                     "symbol": "IVW",
                     "name": "标普500成长股指数ETF-iShares"
@@ -2332,10 +2369,6 @@
         {
             "name": "趋势反转",
             "list": [
-                {
-                    "symbol": "COLL",
-                    "name": "Collegium Pharmaceutical, Inc."
-                },
                 {
                     "symbol": "MMYT",
                     "name": "MakeMyTrip Limited"
