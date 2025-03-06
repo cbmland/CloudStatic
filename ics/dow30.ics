@@ -6,11 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:SJpm2fXMIyhzYG_TBLRwz
+UID:ZRj-i7K7WCoeaXlaankO0
 SUMMARY:盘后 NKE(耐克)发布财报
-DTSTAMP:20250306T044033Z
+DTSTAMP:20250306T164258Z
 DTSTART;VALUE=DATE:20250320
-DESCRIPTION:财务季度：Feb/2025 \n公司：耐克 \n预计每股收益: $0.28，当前市值: 0.11T。\n\n在股票App查看：
+DESCRIPTION:财务季度：Feb/2025 \n公司：耐克 \n预计每股收益: $0.28，当前市值: 0.12T。\n\n在股票App查看：
 	 stocks://?symbol=NKE \n在富途查看：https://www.futunn.com/hk/stock/NKE-US \n在老虎
 	查看：https://www.laohu8.com/stock/NKE \nTradingView：https://www.tradingview.
 	com/symbols/NKE/
@@ -23,11 +23,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KQ6CmlJhwYTFZlOO3_JqS
+UID:KRDdE3CnlxW08iUFNMnQA
 SUMMARY: WBA(沃尔格林博姿联合公司)发布财报
-DTSTAMP:20250306T044033Z
+DTSTAMP:20250306T164258Z
 DTSTART;VALUE=DATE:20250327
-DESCRIPTION:财务季度：Feb/2025 \n公司：沃尔格林博姿联合公司 \n预计每股收益: $0.53，当前市值: 9.36B。\n\n在
+DESCRIPTION:财务季度：Feb/2025 \n公司：沃尔格林博姿联合公司 \n预计每股收益: $0.53，当前市值: 9.29B。\n\n在
 	股票App查看： stocks://?symbol=WBA \n在富途查看：https://www.futunn.com/hk/stock/WBA-
 	US \n在老虎查看：https://www.laohu8.com/stock/WBA \nTradingView：https://www.trad
 	ingview.com/symbols/WBA/
@@ -40,9 +40,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4tLV9uswClXehFpEaJz3_
+UID:Ca4wK39UQEC2RtlfpOuZr
 SUMMARY:盘前 JPM(摩根大通)发布财报
-DTSTAMP:20250306T044033Z
+DTSTAMP:20250306T164258Z
 DTSTART;VALUE=DATE:20250411
 DESCRIPTION:财务季度：Mar/2025 \n公司：摩根大通 \n预计每股收益: $4.53，当前市值: 0.70T。\n\n在股票App查
 	看： stocks://?symbol=JPM \n在富途查看：https://www.futunn.com/hk/stock/JPM-US \n在
@@ -57,9 +57,9 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:V61-UQmjGyQGlYo8PjX2q
+UID:ZUkDxE-m1uwMprA6M_zMI
 SUMMARY: UNH(联合健康保险)发布财报
-DTSTAMP:20250306T044033Z
+DTSTAMP:20250306T164258Z
 DTSTART;VALUE=DATE:20250415
 DESCRIPTION:财务季度：Mar/2025 \n公司：联合健康保险 \n预计每股收益: $7.24，当前市值: 0.43T。\n\n在股票Ap
 	p查看： stocks://?symbol=UNH \n在富途查看：https://www.futunn.com/hk/stock/UNH-US \
@@ -74,9 +74,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ayNvJCCMHYAwMXD1Z5EaS
+UID:_OaU0z36YdGhOJT_z7iOv
 SUMMARY:盘前 JNJ(强生)发布财报
-DTSTAMP:20250306T044033Z
+DTSTAMP:20250306T164258Z
 DTSTART;VALUE=DATE:20250415
 DESCRIPTION:财务季度：Mar/2025 \n公司：强生 \n预计每股收益: $2.59，当前市值: 0.40T。\n\n在股票App查看：
 	 stocks://?symbol=JNJ \n在富途查看：https://www.futunn.com/hk/stock/JNJ-US \n在老虎
@@ -91,14 +91,14 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ptcEFIGE0HH0KHfgeBBQx
+UID:WOtxh8iOpvMZCr-kagVZJ
 SUMMARY: TRV(旅行者保险)发布财报
-DTSTAMP:20250306T044033Z
+DTSTAMP:20250306T164258Z
 DTSTART;VALUE=DATE:20250416
-DESCRIPTION:财务季度：Mar/2025 \n公司：旅行者保险 \n预计每股收益: $0.56，当前市值: 58B。\n\n在股票App查看
-	： stocks://?symbol=TRV \n在富途查看：https://www.futunn.com/hk/stock/TRV-US \n在老
-	虎查看：https://www.laohu8.com/stock/TRV \nTradingView：https://www.tradingview
-	.com/symbols/TRV/
+DESCRIPTION:财务季度：Mar/2025 \n公司：旅行者保险 \n预计每股收益: $0.56，当前市值: 58.50B。\n\n在股票Ap
+	p查看： stocks://?symbol=TRV \n在富途查看：https://www.futunn.com/hk/stock/TRV-US \
+	n在老虎查看：https://www.laohu8.com/stock/TRV \nTradingView：https://www.tradingv
+	iew.com/symbols/TRV/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -108,9 +108,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FQtFfThYnVAyTmPP-d3Gt
+UID:0eQ2iHOkYT7TZxuQo40GN
 SUMMARY: AXP(美国运通)发布财报
-DTSTAMP:20250306T044033Z
+DTSTAMP:20250306T164258Z
 DTSTART;VALUE=DATE:20250418
 DESCRIPTION:财务季度：Mar/2025 \n公司：美国运通 \n预计每股收益: $3.48，当前市值: 0.20T。\n\n在股票App查
 	看： stocks://?symbol=AXP \n在富途查看：https://www.futunn.com/hk/stock/AXP-US \n在
