@@ -1,5 +1,5 @@
 {
-    "updated": "2025-03-12 10:22:33",
+    "updated": "2025-03-13 09:50:58",
     "groups": [
         {
             "name": "重点ETF",
@@ -279,6 +279,10 @@
                     "name": "纳指100ETF"
                 },
                 {
+                    "symbol": "SPY",
+                    "name": "标普500ETF"
+                },
+                {
                     "symbol": "META",
                     "name": "Meta Platforms, Inc."
                 },
@@ -291,24 +295,20 @@
                     "name": "英伟达"
                 },
                 {
-                    "symbol": "GOOGL",
-                    "name": "谷歌A"
-                },
-                {
-                    "symbol": "DELL",
-                    "name": "戴尔"
-                },
-                {
-                    "symbol": "SMCI",
-                    "name": "超微电脑"
+                    "symbol": "AAPL",
+                    "name": "苹果"
                 },
                 {
                     "symbol": "SMH",
                     "name": "半导体指数ETF-HOLDRs"
                 },
                 {
-                    "symbol": "ASML",
-                    "name": "阿斯麦"
+                    "symbol": "GOOGL",
+                    "name": "谷歌A"
+                },
+                {
+                    "symbol": "DELL",
+                    "name": "戴尔"
                 },
                 {
                     "symbol": "MU",
@@ -323,32 +323,32 @@
                     "name": "特斯拉"
                 },
                 {
-                    "symbol": "CRWD",
-                    "name": "CrowdStrike Holdings, Inc."
+                    "symbol": "BITO",
+                    "name": "ProShares Bitcoin ETF"
                 },
                 {
-                    "symbol": "PANW",
-                    "name": "Palo Alto Networks"
+                    "symbol": "CRWD",
+                    "name": "CrowdStrike Holdings, Inc."
                 },
                 {
                     "symbol": "MBLY",
                     "name": "Mobileye Global Inc."
                 },
                 {
-                    "symbol": "AXP",
-                    "name": "美国运通"
-                },
-                {
-                    "symbol": "AAPL",
-                    "name": "苹果"
-                },
-                {
-                    "symbol": "BITO",
-                    "name": "ProShares Bitcoin ETF"
+                    "symbol": "DIS",
+                    "name": "迪士尼"
                 },
                 {
                     "symbol": "MSTR",
                     "name": "Strategy"
+                },
+                {
+                    "symbol": "BX",
+                    "name": "黑石"
+                },
+                {
+                    "symbol": "BA",
+                    "name": "波音"
                 },
                 {
                     "symbol": "HOOD",
@@ -372,8 +372,16 @@
             "name": "M2",
             "list": [
                 {
-                    "symbol": "SPY",
-                    "name": "标普500ETF"
+                    "symbol": "AXP",
+                    "name": "美国运通"
+                },
+                {
+                    "symbol": "ASML",
+                    "name": "阿斯麦"
+                },
+                {
+                    "symbol": "PANW",
+                    "name": "Palo Alto Networks"
                 },
                 {
                     "symbol": "AVGO",
@@ -416,24 +424,12 @@
                     "name": "高盛"
                 },
                 {
-                    "symbol": "BX",
-                    "name": "黑石"
-                },
-                {
                     "symbol": "MMM",
                     "name": "3M"
                 },
                 {
                     "symbol": "DAL",
                     "name": "达美航空"
-                },
-                {
-                    "symbol": "DIS",
-                    "name": "迪士尼"
-                },
-                {
-                    "symbol": "BA",
-                    "name": "波音"
                 },
                 {
                     "symbol": "ARM",
@@ -1273,6 +1269,10 @@
             "name": "零售",
             "list": [
                 {
+                    "symbol": "WMT",
+                    "name": "沃尔玛"
+                },
+                {
                     "symbol": "BJ",
                     "name": "BJ批发俱乐部"
                 },
@@ -1477,6 +1477,10 @@
         {
             "name": "中概",
             "list": [
+                {
+                    "symbol": "KWEB",
+                    "name": "中国海外互联网ETF-KraneShares"
+                },
                 {
                     "symbol": "XIACY",
                     "name": "小米集团ADR"
@@ -2184,7 +2188,32 @@
         },
         {
             "name": "Beat",
-            "list": []
+            "list": [
+                {
+                    "symbol": "DOCS",
+                    "name": "Doximity, Inc."
+                },
+                {
+                    "symbol": "AFRM",
+                    "name": "Affirm Holdings, Inc."
+                },
+                {
+                    "symbol": "PINS",
+                    "name": "Pinterest, Inc."
+                },
+                {
+                    "symbol": "SONO",
+                    "name": "搜诺思公司"
+                },
+                {
+                    "symbol": "GTES",
+                    "name": "Gates Industrial Corp PLC"
+                },
+                {
+                    "symbol": "DGII",
+                    "name": "美国迪进国际"
+                }
+            ]
         },
         {
             "name": "策略组US",
