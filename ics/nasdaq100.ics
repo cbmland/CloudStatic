@@ -6,11 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UYTMitMb4QYyS3ym42dNc
+UID:D5iOLtp-nw4klu-2q0MbR
 SUMMARY: WBA(沃尔格林联合博姿)发布财报
-DTSTAMP:20250409T044049Z
-DTSTART;VALUE=DATE:20250410
-DESCRIPTION:财务季度：Feb/2025 \n公司：沃尔格林联合博姿 \n预计每股收益: $0.53，当前市值: 9.26B。\n\n在股票
+DTSTAMP:20250409T164609Z
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:财务季度：Feb/2025 \n公司：沃尔格林联合博姿 \n预计每股收益: $0.53，当前市值: 9.15B。\n\n在股票
 	App查看： stocks://?symbol=WBA \n在富途查看：https://www.futunn.com/hk/stock/WBA-US
 	 \n在老虎查看：https://www.laohu8.com/stock/WBA \nTradingView：https://www.tradin
 	gview.com/symbols/WBA/
@@ -23,11 +23,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fN2Jj_gs0S8MlyMl85QNf
+UID:Gzi2E9uC9fngo2VqkhuJb
 SUMMARY:盘前 FAST(快扣)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250411
-DESCRIPTION:财务季度：Mar/2025 \n公司：快扣 \n预计每股收益: $0.52，当前市值: 41.40B。\n\n在股票App查看
+DESCRIPTION:财务季度：Mar/2025 \n公司：快扣 \n预计每股收益: $0.52，当前市值: 40.80B。\n\n在股票App查看
 	： stocks://?symbol=FAST \n在富途查看：https://www.futunn.com/hk/stock/FAST-US \n
 	在老虎查看：https://www.laohu8.com/stock/FAST \nTradingView：https://www.tradingv
 	iew.com/symbols/FAST/
@@ -40,11 +40,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RD5Ql_KAd6wz1P_RiQZ5i
+UID:-4nm84JU3tRrwrjqFhJmS
 SUMMARY:盘前 ASML(艾司摩尔)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250416
-DESCRIPTION:财务季度：Mar/2025 \n公司：艾司摩尔 \n预计每股收益: $6.12，当前市值: 0.24T。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：艾司摩尔 \n预计每股收益: $6.12，当前市值: 0.23T。\n\n在股票App查
 	看： stocks://?symbol=ASML \n在富途查看：https://www.futunn.com/hk/stock/ASML-US \
 	n在老虎查看：https://www.laohu8.com/stock/ASML \nTradingView：https://www.trading
 	view.com/symbols/ASML/
@@ -57,11 +57,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WpA_moeAzF_WeZHNPpOm9
+UID:-DuMmleQ6uQFDcQxm-QMM
 SUMMARY:盘后 CSX(CSX公司)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250416
-DESCRIPTION:财务季度：Mar/2025 \n公司：CSX公司 \n预计每股收益: $0.38，当前市值: 51.30B。\n\n在股票Ap
+DESCRIPTION:财务季度：Mar/2025 \n公司：CSX公司 \n预计每股收益: $0.38，当前市值: 50.60B。\n\n在股票Ap
 	p查看： stocks://?symbol=CSX \n在富途查看：https://www.futunn.com/hk/stock/CSX-US \
 	n在老虎查看：https://www.laohu8.com/stock/CSX \nTradingView：https://www.tradingv
 	iew.com/symbols/CSX/
@@ -74,9 +74,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0QKhseXVi90ci8hEV7_9D
+UID:rAqK4r2TrUnWT0oLUzRRm
 SUMMARY:盘后 NFLX(Netflix)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250417
 DESCRIPTION:财务季度：Mar/2025 \n公司：Netflix \n预计每股收益: $5.74，当前市值: 0.37T。\n\n在股票A
 	pp查看： stocks://?symbol=NFLX \n在富途查看：https://www.futunn.com/hk/stock/NFLX-U
@@ -91,11 +91,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b3o2NqiOiKWqlk39Eitj-
+UID:O_RAGCdSj2rbK6oTNUs6X
 SUMMARY:盘后 TSLA(特斯拉)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250422
-DESCRIPTION:财务季度：Mar/2025 \n公司：特斯拉 \n预计每股收益: $0.36，当前市值: 0.75T。\n\n在股票App查看
+DESCRIPTION:财务季度：Mar/2025 \n公司：特斯拉 \n预计每股收益: $0.36，当前市值: 0.71T。\n\n在股票App查看
 	： stocks://?symbol=TSLA \n在富途查看：https://www.futunn.com/hk/stock/TSLA-US \n
 	在老虎查看：https://www.laohu8.com/stock/TSLA \nTradingView：https://www.tradingv
 	iew.com/symbols/TSLA/
@@ -108,11 +108,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3LxrGkUCJhtmUO_Jul0lY
+UID:NLdhJSizExVhvV6tVSX_6
 SUMMARY:盘后 ISRG(直觉手术)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250422
-DESCRIPTION:财务季度：Mar/2025 \n公司：直觉手术 \n预计每股收益: $1.36，当前市值: 0.17T。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：直觉手术 \n预计每股收益: $1.36，当前市值: 0.16T。\n\n在股票App查
 	看： stocks://?symbol=ISRG \n在富途查看：https://www.futunn.com/hk/stock/ISRG-US \
 	n在老虎查看：https://www.laohu8.com/stock/ISRG \nTradingView：https://www.trading
 	view.com/symbols/ISRG/
@@ -125,11 +125,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MRx2SmJuU-wqC9L66EKe3
+UID:T46ersk6xsSXIhSYrTkre
 SUMMARY:盘后 BKR(贝克休斯)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250422
-DESCRIPTION:财务季度：Mar/2025 \n公司：贝克休斯 \n预计每股收益: $0.48，当前市值: 35.40B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：贝克休斯 \n预计每股收益: $0.48，当前市值: 34.70B。\n\n在股票App
 	查看： stocks://?symbol=BKR \n在富途查看：https://www.futunn.com/hk/stock/BKR-US \n
 	在老虎查看：https://www.laohu8.com/stock/BKR \nTradingView：https://www.tradingvi
 	ew.com/symbols/BKR/
@@ -142,12 +142,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DKNn1NryoYqoBNXjLy7-X
+UID:hgfT4Phq8pB9nn6zS7JxT
 SUMMARY:盘前 ODFL(Old Dominion Freight Line)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250423
 DESCRIPTION:财务季度：Mar/2025 \n公司：Old Dominion Freight Line \n预计每股收益: $1.15，当前
-	市值: 32.20B。\n\n在股票App查看： stocks://?symbol=ODFL \n在富途查看：https://www.futunn.
+	市值: 31.50B。\n\n在股票App查看： stocks://?symbol=ODFL \n在富途查看：https://www.futunn.
 	com/hk/stock/ODFL-US \n在老虎查看：https://www.laohu8.com/stock/ODFL \nTradingVi
 	ew：https://www.tradingview.com/symbols/ODFL/
 STATUS:CONFIRMED
@@ -159,11 +159,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:52X0SQFq-mm7QPexSCANM
+UID:hatOKhtS9ErdzoRmhh5cb
 SUMMARY:盘后 TXN(德州仪器)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250423
-DESCRIPTION:财务季度：Mar/2025 \n公司：德州仪器 \n预计每股收益: $1.06，当前市值: 0.14T。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：德州仪器 \n预计每股收益: $1.06，当前市值: 0.13T。\n\n在股票App查
 	看： stocks://?symbol=TXN \n在富途查看：https://www.futunn.com/hk/stock/TXN-US \n在
 	老虎查看：https://www.laohu8.com/stock/TXN \nTradingView：https://www.tradingvie
 	w.com/symbols/TXN/
@@ -176,11 +176,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OwamE1t9FwpgKGjX_Xe0r
+UID:T1Z7LFpFPgI8U8fJ2gLB3
 SUMMARY:盘后 LRCX(泛林集团)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250423
-DESCRIPTION:财务季度：Mar/2025 \n公司：泛林集团 \n预计每股收益: $1，当前市值: 79.80B。\n\n在股票App查看：
+DESCRIPTION:财务季度：Mar/2025 \n公司：泛林集团 \n预计每股收益: $1，当前市值: 77.30B。\n\n在股票App查看：
 	 stocks://?symbol=LRCX \n在富途查看：https://www.futunn.com/hk/stock/LRCX-US \n在
 	老虎查看：https://www.laohu8.com/stock/LRCX \nTradingView：https://www.tradingvi
 	ew.com/symbols/LRCX/
@@ -193,11 +193,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EHZ30CoDxWjP6Wv4h_uvV
+UID:T9ljhSsU2lMoJgVlIPBwF
 SUMMARY:盘后 ORLY(奥莱利)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250423
-DESCRIPTION:财务季度：Mar/2025 \n公司：奥莱利 \n预计每股收益: $9.84，当前市值: 76.40B。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：奥莱利 \n预计每股收益: $9.84，当前市值: 75.30B。\n\n在股票App查
 	看： stocks://?symbol=ORLY \n在富途查看：https://www.futunn.com/hk/stock/ORLY-US \
 	n在老虎查看：https://www.laohu8.com/stock/ORLY \nTradingView：https://www.trading
 	view.com/symbols/ORLY/
@@ -210,11 +210,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nzoD_YuRm0l-oxg9QA-HA
+UID:wp0HKaU0mqq0VVEbwatWw
 SUMMARY:盘前 PEP(百事公司)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：百事公司 \n预计每股收益: $1.51，当前市值: 0.20T。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：百事公司 \n预计每股收益: $1.51，当前市值: 0.19T。\n\n在股票App查
 	看： stocks://?symbol=PEP \n在富途查看：https://www.futunn.com/hk/stock/PEP-US \n在
 	老虎查看：https://www.laohu8.com/stock/PEP \nTradingView：https://www.tradingvie
 	w.com/symbols/PEP/
@@ -227,11 +227,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qFNnPdy3WRLutbBWXqEgs
+UID:2Z6PYNccQlidfD09X21ZV
 SUMMARY:盘前 CMCSA(康卡斯特)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：康卡斯特 \n预计每股收益: $0.99，当前市值: 0.13T。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：康卡斯特 \n预计每股收益: $0.99，当前市值: 0.12T。\n\n在股票App查
 	看： stocks://?symbol=CMCSA \n在富途查看：https://www.futunn.com/hk/stock/CMCSA-US
 	 \n在老虎查看：https://www.laohu8.com/stock/CMCSA \nTradingView：https://www.trad
 	ingview.com/symbols/CMCSA/
@@ -244,11 +244,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Apm8qmz4hr8mkAqhm3sar
+UID:dDv8xnBq6i_cJvreHnfM9
 SUMMARY:盘前 KDP(Keurig Dr Pepper)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：Keurig Dr Pepper \n预计每股收益: $0.38，当前市值: 45.60
+DESCRIPTION:财务季度：Mar/2025 \n公司：Keurig Dr Pepper \n预计每股收益: $0.38，当前市值: 45.50
 	B。\n\n在股票App查看： stocks://?symbol=KDP \n在富途查看：https://www.futunn.com/hk/sto
 	ck/KDP-US \n在老虎查看：https://www.laohu8.com/stock/KDP \nTradingView：https://w
 	ww.tradingview.com/symbols/KDP/
@@ -261,9 +261,9 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yFsUSdrXSiUYSdSGQ5ciT
+UID:yC5ZlizRbzjEv1tWtiF3Q
 SUMMARY:盘前 XEL(埃克西尔)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
 DESCRIPTION:财务季度：Mar/2025 \n公司：埃克西尔 \n预计每股收益: $0.96，当前市值: 38.50B。\n\n在股票App
 	查看： stocks://?symbol=XEL \n在富途查看：https://www.futunn.com/hk/stock/XEL-US \n
@@ -278,11 +278,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RR0RItHlpue0UYJbkS_EG
+UID:16nXXgP3I36BGS1rbj9li
 SUMMARY: MSFT(微软)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：微软 \n预计每股收益: $3.20，当前市值: 2.66T。\n\n在股票App查看：
+DESCRIPTION:财务季度：Mar/2025 \n公司：微软 \n预计每股收益: $3.20，当前市值: 2.64T。\n\n在股票App查看：
 	 stocks://?symbol=MSFT \n在富途查看：https://www.futunn.com/hk/stock/MSFT-US \n在
 	老虎查看：https://www.laohu8.com/stock/MSFT \nTradingView：https://www.tradingvi
 	ew.com/symbols/MSFT/
@@ -295,12 +295,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:t6n6W2pMlSMmAlVeE5vAk
+UID:fAmOlvYSaG00cG1qSDyuM
 SUMMARY: GOOG(Alphabet (Class C))发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：Alphabet (Class C) \n预计每股收益: $2.04，当前市值: 1.8
-	2T。\n\n在股票App查看： stocks://?symbol=GOOG \n在富途查看：https://www.futunn.com/hk/s
+DESCRIPTION:财务季度：Mar/2025 \n公司：Alphabet (Class C) \n预计每股收益: $2.04，当前市值: 1.7
+	9T。\n\n在股票App查看： stocks://?symbol=GOOG \n在富途查看：https://www.futunn.com/hk/s
 	tock/GOOG-US \n在老虎查看：https://www.laohu8.com/stock/GOOG \nTradingView：https
 	://www.tradingview.com/symbols/GOOG/
 STATUS:CONFIRMED
@@ -312,12 +312,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1Ytx6OdIPBrWwyWzdrEMv
+UID:69GBuV4_UxKbgPblc_KLe
 SUMMARY: GOOGL(Alphabet (Class A))发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
 DESCRIPTION:财务季度：Mar/2025 \n公司：Alphabet (Class A) \n预计每股收益: $2.02，当前市值: 1.7
-	9T。\n\n在股票App查看： stocks://?symbol=GOOGL \n在富途查看：https://www.futunn.com/hk/
+	6T。\n\n在股票App查看： stocks://?symbol=GOOGL \n在富途查看：https://www.futunn.com/hk/
 	stock/GOOGL-US \n在老虎查看：https://www.laohu8.com/stock/GOOGL \nTradingView：ht
 	tps://www.tradingview.com/symbols/GOOGL/
 STATUS:CONFIRMED
@@ -329,9 +329,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QAjX0vg5yHh4h6YOquJpc
+UID:h8voz4vIuDXFj0-KMlYeT
 SUMMARY:盘后 TMUS(T-Mobile美国)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
 DESCRIPTION:财务季度：Mar/2025 \n公司：T-Mobile美国 \n预计每股收益: $2.47，当前市值: 0.28T。\n\n在
 	股票App查看： stocks://?symbol=TMUS \n在富途查看：https://www.futunn.com/hk/stock/TMU
@@ -346,11 +346,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eGyWOd0H0ESjQb-lWXDcF
+UID:rt-RVHxv5RPWtm7rAqZwK
 SUMMARY:盘后 GILD(吉利德科学)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：吉利德科学 \n预计每股收益: $1.73，当前市值: 0.13T。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：吉利德科学 \n预计每股收益: $1.71，当前市值: 0.13T。\n\n在股票App
 	查看： stocks://?symbol=GILD \n在富途查看：https://www.futunn.com/hk/stock/GILD-US 
 	\n在老虎查看：https://www.laohu8.com/stock/GILD \nTradingView：https://www.tradin
 	gview.com/symbols/GILD/
@@ -363,11 +363,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mrB2LWv8ZB34CU7em7RL1
+UID:OTxYy9V42-NF7RCRRjlNm
 SUMMARY:盘后 INTC(英特尔)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：英特尔 \n预计每股收益: ($0.14)，当前市值: 84.70B。\n\n在股票Ap
+DESCRIPTION:财务季度：Mar/2025 \n公司：英特尔 \n预计每股收益: ($0.14)，当前市值: 78.50B。\n\n在股票Ap
 	p查看： stocks://?symbol=INTC \n在富途查看：https://www.futunn.com/hk/stock/INTC-US
 	 \n在老虎查看：https://www.laohu8.com/stock/INTC \nTradingView：https://www.tradi
 	ngview.com/symbols/INTC/
@@ -380,45 +380,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8v_UlISrJDBAPgR1Ujp7n
-SUMMARY: KLAC(科磊)发布财报
-DTSTAMP:20250409T044049Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：科磊 \n预计每股收益: $8.06，当前市值: 80.30B。\n\n在股票App查看
-	： stocks://?symbol=KLAC \n在富途查看：https://www.futunn.com/hk/stock/KLAC-US \n
-	在老虎查看：https://www.laohu8.com/stock/KLAC \nTradingView：https://www.tradingv
-	iew.com/symbols/KLAC/
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ISqL5oRADHCss7J8m7MAC
-SUMMARY: TEAM(艾特莱森软件)发布财报
-DTSTAMP:20250409T044049Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025 \n公司：艾特莱森软件 \n预计每股收益: ($0.06)，当前市值: 30.60B。\n\n在股
-	票App查看： stocks://?symbol=TEAM \n在富途查看：https://www.futunn.com/hk/stock/TEAM
-	-US \n在老虎查看：https://www.laohu8.com/stock/TEAM \nTradingView：https://www.tr
-	adingview.com/symbols/TEAM/
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:zBPMEGDTYwQlxtLrAoF_c
+UID:f3xE-KJekexjFPXWUrKQi
 SUMMARY:盘前 CHTR(特许通讯)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250425
-DESCRIPTION:财务季度：Mar/2025 \n公司：特许通讯 \n预计每股收益: $8.65，当前市值: 47.30B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：特许通讯 \n预计每股收益: $8.65，当前市值: 45.70B。\n\n在股票App
 	查看： stocks://?symbol=CHTR \n在富途查看：https://www.futunn.com/hk/stock/CHTR-US 
 	\n在老虎查看：https://www.laohu8.com/stock/CHTR \nTradingView：https://www.tradin
 	gview.com/symbols/CHTR/
@@ -431,11 +397,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:j4hV9xswP6H2rEcYgX3vx
+UID:eK4I7GUouNJYOZ_LCrit-
 SUMMARY:盘后 CDNS(Cadence)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250428
-DESCRIPTION:财务季度：Mar/2025 \n公司：Cadence \n预计每股收益: $1.17，当前市值: 64.10B。\n\n在股票
+DESCRIPTION:财务季度：Mar/2025 \n公司：Cadence \n预计每股收益: $1.17，当前市值: 63.50B。\n\n在股票
 	App查看： stocks://?symbol=CDNS \n在富途查看：https://www.futunn.com/hk/stock/CDNS-
 	US \n在老虎查看：https://www.laohu8.com/stock/CDNS \nTradingView：https://www.tra
 	dingview.com/symbols/CDNS/
@@ -448,11 +414,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lqBtiSykS0mkqyfad-y8P
+UID:XgYbUc59WGgJdbYcBV7Ec
 SUMMARY:盘后 NXPI(恩智浦半导体)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250428
-DESCRIPTION:财务季度：Mar/2025 \n公司：恩智浦半导体 \n预计每股收益: $2.18，当前市值: 41.40B。\n\n在股票A
+DESCRIPTION:财务季度：Mar/2025 \n公司：恩智浦半导体 \n预计每股收益: $2.18，当前市值: 38.90B。\n\n在股票A
 	pp查看： stocks://?symbol=NXPI \n在富途查看：https://www.futunn.com/hk/stock/NXPI-U
 	S \n在老虎查看：https://www.laohu8.com/stock/NXPI \nTradingView：https://www.trad
 	ingview.com/symbols/NXPI/
@@ -465,11 +431,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:D40Ayue_Fi9Lw4ZU-Lqca
+UID:JAjxiZ8A-8YQy-9CmTM43
 SUMMARY:盘前 AZN(阿斯利康)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：阿斯利康 \n预计每股收益: $1.11，当前市值: 0.22T。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：阿斯利康 \n预计每股收益: $1.10，当前市值: 0.20T。\n\n在股票App查
 	看： stocks://?symbol=AZN \n在富途查看：https://www.futunn.com/hk/stock/AZN-US \n在
 	老虎查看：https://www.laohu8.com/stock/AZN \nTradingView：https://www.tradingvie
 	w.com/symbols/AZN/
@@ -482,9 +448,9 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zJZ8_9-fVO3Jb7f0NLdER
+UID:iDSaq_Myqfd4OF_G-dILN
 SUMMARY:盘前 HON(霍尼韦尔)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
 DESCRIPTION:财务季度：Mar/2025 \n公司：霍尼韦尔 \n预计每股收益: $2.21，当前市值: 0.12T。\n\n在股票App查
 	看： stocks://?symbol=HON \n在富途查看：https://www.futunn.com/hk/stock/HON-US \n在
@@ -499,11 +465,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JZS8jmo5zzNpEnH_Xz84m
+UID:lyrloHAXiSlCKUngVYfzA
 SUMMARY:盘前 REGN(再生元制药)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：再生元制药 \n预计每股收益: $6.88，当前市值: 62.60B。\n\n在股票Ap
+DESCRIPTION:财务季度：Mar/2025 \n公司：再生元制药 \n预计每股收益: $6.89，当前市值: 60.90B。\n\n在股票Ap
 	p查看： stocks://?symbol=REGN \n在富途查看：https://www.futunn.com/hk/stock/REGN-US
 	 \n在老虎查看：https://www.laohu8.com/stock/REGN \nTradingView：https://www.tradi
 	ngview.com/symbols/REGN/
@@ -516,11 +482,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Fmzuk7hQWMKmLpz8jjFOn
+UID:mAn10rGbVNJWF_BILAswh
 SUMMARY:盘前 PCAR(帕卡)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：帕卡 \n预计每股收益: $1.59，当前市值: 46.30B。\n\n在股票App查看
+DESCRIPTION:财务季度：Mar/2025 \n公司：帕卡 \n预计每股收益: $1.58，当前市值: 45.30B。\n\n在股票App查看
 	： stocks://?symbol=PCAR \n在富途查看：https://www.futunn.com/hk/stock/PCAR-US \n
 	在老虎查看：https://www.laohu8.com/stock/PCAR \nTradingView：https://www.tradingv
 	iew.com/symbols/PCAR/
@@ -533,11 +499,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3nchx7V-6YYlrINVQ9GsE
+UID:QYIx3af8F0zNeTlFY6YPZ
 SUMMARY:盘前 KHC(卡夫亨氏)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：卡夫亨氏 \n预计每股收益: $0.60，当前市值: 34.10B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：卡夫亨氏 \n预计每股收益: $0.60，当前市值: 33.10B。\n\n在股票App
 	查看： stocks://?symbol=KHC \n在富途查看：https://www.futunn.com/hk/stock/KHC-US \n
 	在老虎查看：https://www.laohu8.com/stock/KHC \nTradingView：https://www.tradingvi
 	ew.com/symbols/KHC/
@@ -550,11 +516,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1HOlDiMbc_dmmSWaWQ_30
+UID:VYQE-HvVKtXM7k7wh3YmQ
 SUMMARY: AMZN(亚马逊)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：亚马逊 \n预计每股收益: $1.38，当前市值: 1.86T。\n\n在股票App查看
+DESCRIPTION:财务季度：Mar/2025 \n公司：亚马逊 \n预计每股收益: $1.38，当前市值: 1.81T。\n\n在股票App查看
 	： stocks://?symbol=AMZN \n在富途查看：https://www.futunn.com/hk/stock/AMZN-US \n
 	在老虎查看：https://www.laohu8.com/stock/AMZN \nTradingView：https://www.tradingv
 	iew.com/symbols/AMZN/
@@ -567,11 +533,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:U91-fflQ_oDqpM8Sphh2m
+UID:HuAmfGtt7uLmUfvrOfH3r
 SUMMARY:盘后 BKNG(Booking Holdings)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：Booking Holdings \n预计每股收益: $17.24，当前市值: 0.14
+DESCRIPTION:财务季度：Mar/2025 \n公司：Booking Holdings \n预计每股收益: $17.01，当前市值: 0.14
 	T。\n\n在股票App查看： stocks://?symbol=BKNG \n在富途查看：https://www.futunn.com/hk/st
 	ock/BKNG-US \n在老虎查看：https://www.laohu8.com/stock/BKNG \nTradingView：https:
 	//www.tradingview.com/symbols/BKNG/
@@ -584,11 +550,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qzaoQ8bc2acz5-zN8YYH3
+UID:IqtDCMP-Rdrl5q-6LG-_2
 SUMMARY: AMD(超微半导体)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：超微半导体 \n预计每股收益: $0.75，当前市值: 0.14T。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：超微半导体 \n预计每股收益: $0.75，当前市值: 0.13T。\n\n在股票App
 	查看： stocks://?symbol=AMD \n在富途查看：https://www.futunn.com/hk/stock/AMD-US \n
 	在老虎查看：https://www.laohu8.com/stock/AMD \nTradingView：https://www.tradingvi
 	ew.com/symbols/AMD/
@@ -601,11 +567,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:u6FTL5rkp6JmJPBH-jppJ
+UID:pot23o2wSYWnuux56JYv5
 SUMMARY: SBUX(星巴克)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：星巴克 \n预计每股收益: $0.51，当前市值: 90.90B。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：星巴克 \n预计每股收益: $0.51，当前市值: 90.50B。\n\n在股票App查
 	看： stocks://?symbol=SBUX \n在富途查看：https://www.futunn.com/hk/stock/SBUX-US \
 	n在老虎查看：https://www.laohu8.com/stock/SBUX \nTradingView：https://www.trading
 	view.com/symbols/SBUX/
@@ -618,11 +584,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dy3YNuCglnm2auKFcoqze
+UID:Ff_MyITBw5d43OFTlvtpY
 SUMMARY: MDLZ(亿滋国际)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：亿滋国际 \n预计每股收益: $0.66，当前市值: 84.40B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：亿滋国际 \n预计每股收益: $0.66，当前市值: 82.90B。\n\n在股票App
 	查看： stocks://?symbol=MDLZ \n在富途查看：https://www.futunn.com/hk/stock/MDLZ-US 
 	\n在老虎查看：https://www.laohu8.com/stock/MDLZ \nTradingView：https://www.tradin
 	gview.com/symbols/MDLZ/
@@ -635,11 +601,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:N4S-xzlRrRauHubSXqCIb
+UID:HTJDieZj96eZPTwOCccWV
 SUMMARY: PYPL(PayPal)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：PayPal \n预计每股收益: $1.16，当前市值: 57.90B。\n\n在股票A
+DESCRIPTION:财务季度：Mar/2025 \n公司：PayPal \n预计每股收益: $1.16，当前市值: 56.80B。\n\n在股票A
 	pp查看： stocks://?symbol=PYPL \n在富途查看：https://www.futunn.com/hk/stock/PYPL-U
 	S \n在老虎查看：https://www.laohu8.com/stock/PYPL \nTradingView：https://www.trad
 	ingview.com/symbols/PYPL/
@@ -652,14 +618,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gX9xLsHTL3TVXRFnn_xFF
+UID:Hcjt3fPnOGlcYLe6gO8Ib
 SUMMARY:盘后 CSGP(科斯塔集团)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：科斯塔集团 \n预计每股收益: $0.06，当前市值: 31.10B。\n\n在股票Ap
-	p查看： stocks://?symbol=CSGP \n在富途查看：https://www.futunn.com/hk/stock/CSGP-US
-	 \n在老虎查看：https://www.laohu8.com/stock/CSGP \nTradingView：https://www.tradi
-	ngview.com/symbols/CSGP/
+DESCRIPTION:财务季度：Mar/2025 \n公司：科斯塔集团 \n预计每股收益: $0.05，当前市值: 30B。\n\n在股票App查看
+	： stocks://?symbol=CSGP \n在富途查看：https://www.futunn.com/hk/stock/CSGP-US \n
+	在老虎查看：https://www.laohu8.com/stock/CSGP \nTradingView：https://www.tradingv
+	iew.com/symbols/CSGP/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -669,11 +635,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ikdzuTFl8H1c_HauvJT8y
+UID:GgCRZfhfM7MJvK_AiNo-9
 SUMMARY: GEHC(GE医疗)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025 \n公司：GE医疗 \n预计每股收益: $0.91，当前市值: 27.90B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：GE医疗 \n预计每股收益: $0.91，当前市值: 26.90B。\n\n在股票App
 	查看： stocks://?symbol=GEHC \n在富途查看：https://www.futunn.com/hk/stock/GEHC-US 
 	\n在老虎查看：https://www.laohu8.com/stock/GEHC \nTradingView：https://www.tradin
 	gview.com/symbols/GEHC/
@@ -686,9 +652,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:I6mwoZZXdGr3PQq23qMUJ
+UID:SDawG-GA61M62eAq3Dk9l
 SUMMARY:盘前 ADP(ADP)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250430
 DESCRIPTION:财务季度：Mar/2025 \n公司：ADP \n预计每股收益: $2.96，当前市值: 0.11T。\n\n在股票App查看
 	： stocks://?symbol=ADP \n在富途查看：https://www.futunn.com/hk/stock/ADP-US \n在老
@@ -703,26 +669,9 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:t8RGDQytaFnMx13BVROGp
-SUMMARY:盘后 ALGN(爱奇科技)发布财报
-DTSTAMP:20250409T044049Z
-DTSTART;VALUE=DATE:20250430
-DESCRIPTION:财务季度：Mar/2025 \n公司：爱奇科技 \n预计每股收益: $1.52，当前市值: 11.30B。\n\n在股票App
-	查看： stocks://?symbol=ALGN \n在富途查看：https://www.futunn.com/hk/stock/ALGN-US 
-	\n在老虎查看：https://www.laohu8.com/stock/ALGN \nTradingView：https://www.tradin
-	gview.com/symbols/ALGN/
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:58YoyLhwFUgTabdoxL7f_
+UID:xwUl-8Auqm9PfLAFIWhyR
 SUMMARY:盘后 QCOM(高通)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250430
 DESCRIPTION:财务季度：Mar/2025 \n公司：高通 \n预计每股收益: $2.24，当前市值: 0.14T。\n\n在股票App查看：
 	 stocks://?symbol=QCOM \n在富途查看：https://www.futunn.com/hk/stock/QCOM-US \n在
@@ -737,11 +686,45 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:u_mXYB5ydHAVyJ5dQ7lWK
+UID:m7wlTvw2xAYAdrG27bYH8
+SUMMARY:盘后 KLAC(科磊)发布财报
+DTSTAMP:20250409T164609Z
+DTSTART;VALUE=DATE:20250430
+DESCRIPTION:财务季度：Mar/2025 \n公司：科磊 \n预计每股收益: $8.06，当前市值: 79.70B。\n\n在股票App查看
+	： stocks://?symbol=KLAC \n在富途查看：https://www.futunn.com/hk/stock/KLAC-US \n
+	在老虎查看：https://www.laohu8.com/stock/KLAC \nTradingView：https://www.tradingv
+	iew.com/symbols/KLAC/
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qiwGH2MP5tluSDUN4MqpI
+SUMMARY:盘后 ALGN(爱奇科技)发布财报
+DTSTAMP:20250409T164609Z
+DTSTART;VALUE=DATE:20250430
+DESCRIPTION:财务季度：Mar/2025 \n公司：爱奇科技 \n预计每股收益: $1.52，当前市值: 10.60B。\n\n在股票App
+	查看： stocks://?symbol=ALGN \n在富途查看：https://www.futunn.com/hk/stock/ALGN-US 
+	\n在老虎查看：https://www.laohu8.com/stock/ALGN \nTradingView：https://www.tradin
+	gview.com/symbols/ALGN/
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pyGd6X4DDZBhEfm9CKP6t
 SUMMARY:盘后 AAPL(苹果公司)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：苹果公司 \n预计每股收益: $1.61，当前市值: 2.73T。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：苹果公司 \n预计每股收益: $1.61，当前市值: 2.59T。\n\n在股票App查
 	看： stocks://?symbol=AAPL \n在富途查看：https://www.futunn.com/hk/stock/AAPL-US \
 	n在老虎查看：https://www.laohu8.com/stock/AAPL \nTradingView：https://www.trading
 	view.com/symbols/AAPL/
@@ -754,11 +737,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iqmnR94U5SuxG-n3EwG8-
+UID:IIlCF9E7wLC0avgv_K0wS
 SUMMARY:盘后 AMGN(安进)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：安进 \n预计每股收益: $4.18，当前市值: 0.16T。\n\n在股票App查看：
+DESCRIPTION:财务季度：Mar/2025 \n公司：安进 \n预计每股收益: $4.18，当前市值: 0.15T。\n\n在股票App查看：
 	 stocks://?symbol=AMGN \n在富途查看：https://www.futunn.com/hk/stock/AMGN-US \n在
 	老虎查看：https://www.laohu8.com/stock/AMGN \nTradingView：https://www.tradingvi
 	ew.com/symbols/AMGN/
@@ -771,14 +754,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qKidqm2KI8JE-E5pHukd4
+UID:JXjdWXxH4ceFlBHuPaH5N
 SUMMARY: MELI(美卡多)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：美卡多 \n预计每股收益: $7.82，当前市值: 91B。\n\n在股票App查看： 
-	stocks://?symbol=MELI \n在富途查看：https://www.futunn.com/hk/stock/MELI-US \n在老
-	虎查看：https://www.laohu8.com/stock/MELI \nTradingView：https://www.tradingvie
-	w.com/symbols/MELI/
+DESCRIPTION:财务季度：Mar/2025 \n公司：美卡多 \n预计每股收益: $7.82，当前市值: 92.60B。\n\n在股票App查
+	看： stocks://?symbol=MELI \n在富途查看：https://www.futunn.com/hk/stock/MELI-US \
+	n在老虎查看：https://www.laohu8.com/stock/MELI \nTradingView：https://www.trading
+	view.com/symbols/MELI/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -788,11 +771,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eGewGY7o2f_VW7M2ocyKa
+UID:8Z5v7vfsHmxcPxmIRtAMX
 SUMMARY: MNST(怪物饮料)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：怪物饮料 \n预计每股收益: $0.46，当前市值: 55.60B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：怪物饮料 \n预计每股收益: $0.46，当前市值: 53.50B。\n\n在股票App
 	查看： stocks://?symbol=MNST \n在富途查看：https://www.futunn.com/hk/stock/MNST-US 
 	\n在老虎查看：https://www.laohu8.com/stock/MNST \nTradingView：https://www.tradin
 	gview.com/symbols/MNST/
@@ -805,11 +788,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XtIX3Pcr6kAAsFZOkwSOV
+UID:EwVN9_hDE1oNvOxB7XXPL
 SUMMARY:盘前 EXC(艾索伦电力公司)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：艾索伦电力公司 \n预计每股收益: $0.72，当前市值: 44.90B。\n\n在股票
+DESCRIPTION:财务季度：Mar/2025 \n公司：艾索伦电力公司 \n预计每股收益: $0.72，当前市值: 44.70B。\n\n在股票
 	App查看： stocks://?symbol=EXC \n在富途查看：https://www.futunn.com/hk/stock/EXC-US
 	 \n在老虎查看：https://www.laohu8.com/stock/EXC \nTradingView：https://www.tradin
 	gview.com/symbols/EXC/
@@ -822,11 +805,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vwe6EEX43c7oOED4p7JWE
+UID:45YRcHGMcxVYwZzX9BiAH
 SUMMARY:盘前 IDXX(爱德士)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：爱德士 \n预计每股收益: $2.93，当前市值: 30.80B。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：爱德士 \n预计每股收益: $2.93，当前市值: 29.40B。\n\n在股票App查
 	看： stocks://?symbol=IDXX \n在富途查看：https://www.futunn.com/hk/stock/IDXX-US \
 	n在老虎查看：https://www.laohu8.com/stock/IDXX \nTradingView：https://www.trading
 	view.com/symbols/IDXX/
@@ -839,11 +822,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ms-PI-sKmTUsXqne6j6a4
+UID:fQ3iJyZ1omkVSZQwVMSV_
 SUMMARY:盘前 BIIB(Biogen)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：Biogen \n预计每股收益: $3.59，当前市值: 17.40B。\n\n在股票A
+DESCRIPTION:财务季度：Mar/2025 \n公司：Biogen \n预计每股收益: $3.59，当前市值: 16.70B。\n\n在股票A
 	pp查看： stocks://?symbol=BIIB \n在富途查看：https://www.futunn.com/hk/stock/BIIB-U
 	S \n在老虎查看：https://www.laohu8.com/stock/BIIB \nTradingView：https://www.trad
 	ingview.com/symbols/BIIB/
@@ -856,11 +839,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xLWpHtYXQnn-rapdcdBfl
+UID:NgHU8S8zeBjMvFToLoJ7F
 SUMMARY:盘前 SIRI(天狼星XM)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：天狼星XM \n预计每股收益: $0.70，当前市值: 6.90B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：天狼星XM \n预计每股收益: $0.70，当前市值: 6.55B。\n\n在股票App
 	查看： stocks://?symbol=SIRI \n在富途查看：https://www.futunn.com/hk/stock/SIRI-US 
 	\n在老虎查看：https://www.laohu8.com/stock/SIRI \nTradingView：https://www.tradin
 	gview.com/symbols/SIRI/
@@ -873,11 +856,28 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HAdg9FYjQ629-IvVMi6tc
-SUMMARY:盘后 DXCM(Dexcom)发布财报
-DTSTAMP:20250409T044049Z
+UID:dyiLrO_J1zQzZYSiekXvP
+SUMMARY:盘后 TEAM(艾特莱森软件)发布财报
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：Dexcom \n预计每股收益: $0.33，当前市值: 24.10B。\n\n在股票A
+DESCRIPTION:财务季度：Mar/2025 \n公司：艾特莱森软件 \n预计每股收益: ($0.06)，当前市值: 30.10B。\n\n在股
+	票App查看： stocks://?symbol=TEAM \n在富途查看：https://www.futunn.com/hk/stock/TEAM
+	-US \n在老虎查看：https://www.laohu8.com/stock/TEAM \nTradingView：https://www.tr
+	adingview.com/symbols/TEAM/
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Zk05kEzQzqMxqzefsDbcB
+SUMMARY:盘后 DXCM(Dexcom)发布财报
+DTSTAMP:20250409T164609Z
+DTSTART;VALUE=DATE:20250501
+DESCRIPTION:财务季度：Mar/2025 \n公司：Dexcom \n预计每股收益: $0.33，当前市值: 23.70B。\n\n在股票A
 	pp查看： stocks://?symbol=DXCM \n在富途查看：https://www.futunn.com/hk/stock/DXCM-U
 	S \n在老虎查看：https://www.laohu8.com/stock/DXCM \nTradingView：https://www.trad
 	ingview.com/symbols/DXCM/
@@ -890,11 +890,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Z0ZPgpKtQIzXBBcYc2rLs
+UID:ChYQfqC5Q88VGclFrsspE
 SUMMARY: ILMN(Illumina)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：Illumina \n预计每股收益: $0.94，当前市值: 11.60B。\n\n在股
+DESCRIPTION:财务季度：Mar/2025 \n公司：Illumina \n预计每股收益: $0.94，当前市值: 11.10B。\n\n在股
 	票App查看： stocks://?symbol=ILMN \n在富途查看：https://www.futunn.com/hk/stock/ILMN
 	-US \n在老虎查看：https://www.laohu8.com/stock/ILMN \nTradingView：https://www.tr
 	adingview.com/symbols/ILMN/
@@ -907,11 +907,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m_yoEip4m00Nz0KcMAE1h
+UID:nw1Pa3Knd1rzqso6mEfAY
 SUMMARY: MRNA(莫德纳)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025 \n公司：莫德纳 \n预计每股收益: ($2.90)，当前市值: 9.89B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：莫德纳 \n预计每股收益: ($2.90)，当前市值: 9.51B。\n\n在股票App
 	查看： stocks://?symbol=MRNA \n在富途查看：https://www.futunn.com/hk/stock/MRNA-US 
 	\n在老虎查看：https://www.laohu8.com/stock/MRNA \nTradingView：https://www.tradin
 	gview.com/symbols/MRNA/
@@ -924,9 +924,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fJOLybv_UXgMRaJOzkOKH
-SUMMARY: VRTX(福泰制药)发布财报
-DTSTAMP:20250409T044049Z
+UID:V1BPbSjZ8wUoa7Kd59UTU
+SUMMARY:盘后 VRTX(福泰制药)发布财报
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250505
 DESCRIPTION:财务季度：Mar/2025 \n公司：福泰制药 \n预计每股收益: $3.68，当前市值: 0.12T。\n\n在股票App查
 	看： stocks://?symbol=VRTX \n在富途查看：https://www.futunn.com/hk/stock/VRTX-US \
@@ -941,14 +941,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GPSBera3pOwZ4vyI3Z8Ss
+UID:NAxEQV6JGWQEUv9xVrVYh
 SUMMARY:盘后 FANG(响尾蛇能源公司)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250505
-DESCRIPTION:财务季度：Mar/2025 \n公司：响尾蛇能源公司 \n预计每股收益: $3.69，当前市值: 36B。\n\n在股票App
-	查看： stocks://?symbol=FANG \n在富途查看：https://www.futunn.com/hk/stock/FANG-US 
-	\n在老虎查看：https://www.laohu8.com/stock/FANG \nTradingView：https://www.tradin
-	gview.com/symbols/FANG/
+DESCRIPTION:财务季度：Mar/2025 \n公司：响尾蛇能源公司 \n预计每股收益: $3.69，当前市值: 34.50B。\n\n在股票
+	App查看： stocks://?symbol=FANG \n在富途查看：https://www.futunn.com/hk/stock/FANG-
+	US \n在老虎查看：https://www.laohu8.com/stock/FANG \nTradingView：https://www.tra
+	dingview.com/symbols/FANG/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -958,14 +958,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gZ02D9l2pjgiaDcAmgfOZ
+UID:Ja04epkh6EGaS5KEKlUoy
 SUMMARY: MCHP(微芯片科技)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250505
-DESCRIPTION:财务季度：Mar/2025 \n公司：微芯片科技 \n预计每股收益: $0.03，当前市值: 20.50B。\n\n在股票Ap
-	p查看： stocks://?symbol=MCHP \n在富途查看：https://www.futunn.com/hk/stock/MCHP-US
-	 \n在老虎查看：https://www.laohu8.com/stock/MCHP \nTradingView：https://www.tradi
-	ngview.com/symbols/MCHP/
+DESCRIPTION:财务季度：Mar/2025 \n公司：微芯片科技 \n预计每股收益: $0.03，当前市值: 19B。\n\n在股票App查看
+	： stocks://?symbol=MCHP \n在富途查看：https://www.futunn.com/hk/stock/MCHP-US \n
+	在老虎查看：https://www.laohu8.com/stock/MCHP \nTradingView：https://www.tradingv
+	iew.com/symbols/MCHP/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -975,11 +975,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kQSp9Mj4qmXrj3G7eZu5a
+UID:AlNY8J7aITU-_jOrj6ECz
 SUMMARY: ON(安森美)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250505
-DESCRIPTION:财务季度：Mar/2025 \n公司：安森美 \n预计每股收益: $0.51，当前市值: 14.80B。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：安森美 \n预计每股收益: $0.51，当前市值: 13.50B。\n\n在股票App查
 	看： stocks://?symbol=ON \n在富途查看：https://www.futunn.com/hk/stock/ON-US \n在老虎
 	查看：https://www.laohu8.com/stock/ON \nTradingView：https://www.tradingview.c
 	om/symbols/ON/
@@ -992,11 +992,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sZd8ewCZo5kxFn52Z7Cah
+UID:SW-SNJxcIYGIF-fDMD951
 SUMMARY:盘前 GFS(格芯)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250506
-DESCRIPTION:财务季度：Mar/2025 \n公司：格芯 \n预计每股收益: $0.20，当前市值: 17.80B。\n\n在股票App查看
+DESCRIPTION:财务季度：Mar/2025 \n公司：格芯 \n预计每股收益: $0.20，当前市值: 16.80B。\n\n在股票App查看
 	： stocks://?symbol=GFS \n在富途查看：https://www.futunn.com/hk/stock/GFS-US \n在老
 	虎查看：https://www.laohu8.com/stock/GFS \nTradingView：https://www.tradingview
 	.com/symbols/GFS/
@@ -1009,14 +1009,14 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3F083JdGKiGJZ9v6wmGdt
+UID:cpfA2rebiFewXsXUYCyq_
 SUMMARY:盘前 AEP(美国电力公司)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250506
-DESCRIPTION:财务季度：Mar/2025 \n公司：美国电力公司 \n预计每股收益: $1.88，当前市值: 54.10B。\n\n在股票A
-	pp查看： stocks://?symbol=AEP \n在富途查看：https://www.futunn.com/hk/stock/AEP-US 
-	\n在老虎查看：https://www.laohu8.com/stock/AEP \nTradingView：https://www.trading
-	view.com/symbols/AEP/
+DESCRIPTION:财务季度：Mar/2025 \n公司：美国电力公司 \n预计每股收益: $1.88，当前市值: 54B。\n\n在股票App查
+	看： stocks://?symbol=AEP \n在富途查看：https://www.futunn.com/hk/stock/AEP-US \n在
+	老虎查看：https://www.laohu8.com/stock/AEP \nTradingView：https://www.tradingvie
+	w.com/symbols/AEP/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -1026,11 +1026,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:th722Oj5Q7Q9b9847sU5J
+UID:DmqRsf_Xy9iMgqI8tNXSe
 SUMMARY:盘后 EA(艺电)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250506
-DESCRIPTION:财务季度：Mar/2025 \n公司：艺电 \n预计每股收益: $0.60，当前市值: 35.10B。\n\n在股票App查看
+DESCRIPTION:财务季度：Mar/2025 \n公司：艺电 \n预计每股收益: $0.60，当前市值: 34.50B。\n\n在股票App查看
 	： stocks://?symbol=EA \n在富途查看：https://www.futunn.com/hk/stock/EA-US \n在老虎查
 	看：https://www.laohu8.com/stock/EA \nTradingView：https://www.tradingview.co
 	m/symbols/EA/
@@ -1043,11 +1043,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2T1KDU42lcq2cNHLpFOzl
+UID:mcAFIsnwj_q-CR3kJEaAg
 SUMMARY: DDOG(Datadog)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250506
-DESCRIPTION:财务季度：Mar/2025 \n公司：Datadog \n预计每股收益: $0.08，当前市值: 30.20B。\n\n在股票
+DESCRIPTION:财务季度：Mar/2025 \n公司：Datadog \n预计每股收益: $0.08，当前市值: 29.80B。\n\n在股票
 	App查看： stocks://?symbol=DDOG \n在富途查看：https://www.futunn.com/hk/stock/DDOG-
 	US \n在老虎查看：https://www.laohu8.com/stock/DDOG \nTradingView：https://www.tra
 	dingview.com/symbols/DDOG/
@@ -1060,11 +1060,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oYgKlZ0FAEjunAIyo87xY
+UID:3EGdB-RjhG-SWNIv7op8s
 SUMMARY:盘后 LCID(Lucid Motors)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250506
-DESCRIPTION:财务季度：Mar/2025 \n公司：Lucid Motors \n预计每股收益: ($0.22)，当前市值: 7.43B。\
+DESCRIPTION:财务季度：Mar/2025 \n公司：Lucid Motors \n预计每股收益: ($0.22)，当前市值: 7.03B。\
 	n\n在股票App查看： stocks://?symbol=LCID \n在富途查看：https://www.futunn.com/hk/stock
 	/LCID-US \n在老虎查看：https://www.laohu8.com/stock/LCID \nTradingView：https://w
 	ww.tradingview.com/symbols/LCID/
@@ -1077,11 +1077,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_V8ezymp6qQMd5dh4EuN2
+UID:9jlwXaTgw_4eHQU4OP_iX
 SUMMARY:盘后 FTNT(Fortinet)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250507
-DESCRIPTION:财务季度：Mar/2025 \n公司：Fortinet \n预计每股收益: $0.45，当前市值: 67.70B。\n\n在股
+DESCRIPTION:财务季度：Mar/2025 \n公司：Fortinet \n预计每股收益: $0.45，当前市值: 67.80B。\n\n在股
 	票App查看： stocks://?symbol=FTNT \n在富途查看：https://www.futunn.com/hk/stock/FTNT
 	-US \n在老虎查看：https://www.laohu8.com/stock/FTNT \nTradingView：https://www.tr
 	adingview.com/symbols/FTNT/
@@ -1094,11 +1094,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VE4jj0EQhtCUvG5Oa_fYJ
+UID:STYL_R65WX84T2fb8jdqE
 SUMMARY: MAR(万豪国际)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250507
-DESCRIPTION:财务季度：Mar/2025 \n公司：万豪国际 \n预计每股收益: $2.28，当前市值: 58.80B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：万豪国际 \n预计每股收益: $2.28，当前市值: 58.20B。\n\n在股票App
 	查看： stocks://?symbol=MAR \n在富途查看：https://www.futunn.com/hk/stock/MAR-US \n
 	在老虎查看：https://www.laohu8.com/stock/MAR \nTradingView：https://www.tradingvi
 	ew.com/symbols/MAR/
@@ -1111,14 +1111,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hExYT79A06MVVT5_V2yM3
+UID:mElLmv5z-_HawLmpVVD2b
 SUMMARY: VRSK(威瑞斯克)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250507
-DESCRIPTION:财务季度：Mar/2025 \n公司：威瑞斯克 \n预计每股收益: $1.67，当前市值: 39B。\n\n在股票App查看：
-	 stocks://?symbol=VRSK \n在富途查看：https://www.futunn.com/hk/stock/VRSK-US \n在
-	老虎查看：https://www.laohu8.com/stock/VRSK \nTradingView：https://www.tradingvi
-	ew.com/symbols/VRSK/
+DESCRIPTION:财务季度：Mar/2025 \n公司：威瑞斯克 \n预计每股收益: $1.67，当前市值: 38.90B。\n\n在股票App
+	查看： stocks://?symbol=VRSK \n在富途查看：https://www.futunn.com/hk/stock/VRSK-US 
+	\n在老虎查看：https://www.laohu8.com/stock/VRSK \nTradingView：https://www.tradin
+	gview.com/symbols/VRSK/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -1128,11 +1128,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lHb0NYhFQuiTPk1dlDmTW
+UID:2kTlvyElAB5VsQo--9pUB
 SUMMARY: CTSH(高知特)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250507
-DESCRIPTION:财务季度：Mar/2025 \n公司：高知特 \n预计每股收益: $1.19，当前市值: 33.30B。\n\n在股票App查
+DESCRIPTION:财务季度：Mar/2025 \n公司：高知特 \n预计每股收益: $1.19，当前市值: 32.90B。\n\n在股票App查
 	看： stocks://?symbol=CTSH \n在富途查看：https://www.futunn.com/hk/stock/CTSH-US \
 	n在老虎查看：https://www.laohu8.com/stock/CTSH \nTradingView：https://www.trading
 	view.com/symbols/CTSH/
@@ -1145,11 +1145,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VrtC8d2YnOMTI04nb__XU
+UID:2NSFVIyldYsTEOJ2mWw62
 SUMMARY: EBAY(eBay)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250507
-DESCRIPTION:财务季度：Mar/2025 \n公司：eBay \n预计每股收益: $1.10，当前市值: 28.50B。\n\n在股票App
+DESCRIPTION:财务季度：Mar/2025 \n公司：eBay \n预计每股收益: $1.10，当前市值: 27.70B。\n\n在股票App
 	查看： stocks://?symbol=EBAY \n在富途查看：https://www.futunn.com/hk/stock/EBAY-US 
 	\n在老虎查看：https://www.laohu8.com/stock/EBAY \nTradingView：https://www.tradin
 	gview.com/symbols/EBAY/
@@ -1162,14 +1162,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TNhS6HDMHN6LMNDjpoVTo
+UID:VKtTyuKX51iVNYRiscom0
 SUMMARY: ANSS(ANSYS公司)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250507
-DESCRIPTION:财务季度：Mar/2025 \n公司：ANSYS公司 \n预计每股收益: $1.12，当前市值: 24.90B。\n\n在股票
-	App查看： stocks://?symbol=ANSS \n在富途查看：https://www.futunn.com/hk/stock/ANSS-
-	US \n在老虎查看：https://www.laohu8.com/stock/ANSS \nTradingView：https://www.tra
-	dingview.com/symbols/ANSS/
+DESCRIPTION:财务季度：Mar/2025 \n公司：ANSYS公司 \n预计每股收益: $1.12，当前市值: 25B。\n\n在股票App
+	查看： stocks://?symbol=ANSS \n在富途查看：https://www.futunn.com/hk/stock/ANSS-US 
+	\n在老虎查看：https://www.laohu8.com/stock/ANSS \nTradingView：https://www.tradin
+	gview.com/symbols/ANSS/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -1179,11 +1179,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nwHNBpyu-TabnFOCklFdF
+UID:zXpvfkzRIcuSDVeiGcC9w
 SUMMARY:盘前 WBD(华纳兄弟探索)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250508
-DESCRIPTION:财务季度：Mar/2025 \n公司：华纳兄弟探索 \n预计每股收益: ($0.14)，当前市值: 19.90B。\n\n在股
+DESCRIPTION:财务季度：Mar/2025 \n公司：华纳兄弟探索 \n预计每股收益: ($0.14)，当前市值: 18.90B。\n\n在股
 	票App查看： stocks://?symbol=WBD \n在富途查看：https://www.futunn.com/hk/stock/WBD-U
 	S \n在老虎查看：https://www.laohu8.com/stock/WBD \nTradingView：https://www.tradi
 	ngview.com/symbols/WBD/
@@ -1196,11 +1196,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vjXIZOW0VcWQ8rkKwMzLg
+UID:_PBiP04JZaEqDPiIhMwe6
 SUMMARY: CEG(美国联合能源公司)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250508
-DESCRIPTION:财务季度：Mar/2025 \n公司：美国联合能源公司 \n预计每股收益: $2.03，当前市值: 56.20B。\n\n在股
+DESCRIPTION:财务季度：Mar/2025 \n公司：美国联合能源公司 \n预计每股收益: $2.03，当前市值: 57.90B。\n\n在股
 	票App查看： stocks://?symbol=CEG \n在富途查看：https://www.futunn.com/hk/stock/CEG-U
 	S \n在老虎查看：https://www.laohu8.com/stock/CEG \nTradingView：https://www.tradi
 	ngview.com/symbols/CEG/
@@ -1213,14 +1213,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vP_gA7jFwgl3hcagVLvek
+UID:254gVIff7HzIO3sucxxWR
 SUMMARY: ABNB(Airbnb)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250514
-DESCRIPTION:财务季度：Mar/2025 \n公司：Airbnb \n预计每股收益: $0.25，当前市值: 67B。\n\n在股票App查
-	看： stocks://?symbol=ABNB \n在富途查看：https://www.futunn.com/hk/stock/ABNB-US \
-	n在老虎查看：https://www.laohu8.com/stock/ABNB \nTradingView：https://www.trading
-	view.com/symbols/ABNB/
+DESCRIPTION:财务季度：Mar/2025 \n公司：Airbnb \n预计每股收益: $0.25，当前市值: 66.60B。\n\n在股票A
+	pp查看： stocks://?symbol=ABNB \n在富途查看：https://www.futunn.com/hk/stock/ABNB-U
+	S \n在老虎查看：https://www.laohu8.com/stock/ABNB \nTradingView：https://www.trad
+	ingview.com/symbols/ABNB/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -1230,11 +1230,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NYaiuloL0TkI0-OGi_fQ5
+UID:5UMWurTFU0dGsqNv1enbf
 SUMMARY: AMAT(应用材料)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250515
-DESCRIPTION:财务季度：Apr/2025 \n公司：应用材料 \n预计每股收益: $2.30，当前市值: 0.11T。\n\n在股票App查
+DESCRIPTION:财务季度：Apr/2025 \n公司：应用材料 \n预计每股收益: $2.30，当前市值: 0.10T。\n\n在股票App查
 	看： stocks://?symbol=AMAT \n在富途查看：https://www.futunn.com/hk/stock/AMAT-US \
 	n在老虎查看：https://www.laohu8.com/stock/AMAT \nTradingView：https://www.trading
 	view.com/symbols/AMAT/
@@ -1247,28 +1247,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:n23pItxJy0HLQe9jye7CL
-SUMMARY: JD(京东)发布财报
-DTSTAMP:20250409T044049Z
-DTSTART;VALUE=DATE:20250515
-DESCRIPTION:财务季度：Mar/2025 \n公司：京东 \n预计每股收益: $0.94，当前市值: 54.90B。\n\n在股票App查看
-	： stocks://?symbol=JD \n在富途查看：https://www.futunn.com/hk/stock/JD-US \n在老虎查
-	看：https://www.laohu8.com/stock/JD \nTradingView：https://www.tradingview.co
-	m/symbols/JD/
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:5OIgp2PD55x2ohbO7oZse
+UID:QIDqIrrmuoM-enb5Y5il2
 SUMMARY: CPRT(克帕特)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250515
-DESCRIPTION:财务季度：Apr/2025 \n公司：克帕特 \n预计每股收益: $0.42，当前市值: 52.40B。\n\n在股票App查
+DESCRIPTION:财务季度：Apr/2025 \n公司：克帕特 \n预计每股收益: $0.42，当前市值: 52.70B。\n\n在股票App查
 	看： stocks://?symbol=CPRT \n在富途查看：https://www.futunn.com/hk/stock/CPRT-US \
 	n在老虎查看：https://www.laohu8.com/stock/CPRT \nTradingView：https://www.trading
 	view.com/symbols/CPRT/
@@ -1281,9 +1264,26 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:07_tcOEn8yNNVaCzQqFD3
+UID:9jSx5Pxe6OACCwbVXymTN
+SUMMARY: JD(京东)发布财报
+DTSTAMP:20250409T164609Z
+DTSTART;VALUE=DATE:20250515
+DESCRIPTION:财务季度：Mar/2025 \n公司：京东 \n预计每股收益: $0.94，当前市值: 51.90B。\n\n在股票App查看
+	： stocks://?symbol=JD \n在富途查看：https://www.futunn.com/hk/stock/JD-US \n在老虎查
+	看：https://www.laohu8.com/stock/JD \nTradingView：https://www.tradingview.co
+	m/symbols/JD/
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wAzvSJGV9tqFE9DA-YwMZ
 SUMMARY: PANW(派拓网络)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250519
 DESCRIPTION:财务季度：Apr/2025 \n公司：派拓网络 \n预计每股收益: $0.40，当前市值: 0.10T。\n\n在股票App查
 	看： stocks://?symbol=PANW \n在富途查看：https://www.futunn.com/hk/stock/PANW-US \
@@ -1298,11 +1298,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GVlAh6QeUNzAYrLP6Pb1_
+UID:YGQLhg__7VCCoCZzxikOv
 SUMMARY: ZM(Zoom)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250519
-DESCRIPTION:财务季度：Apr/2025 \n公司：Zoom \n预计每股收益: $0.70，当前市值: 20.80B。\n\n在股票App
+DESCRIPTION:财务季度：Apr/2025 \n公司：Zoom \n预计每股收益: $0.70，当前市值: 20.40B。\n\n在股票App
 	查看： stocks://?symbol=ZM \n在富途查看：https://www.futunn.com/hk/stock/ZM-US \n在老
 	虎查看：https://www.laohu8.com/stock/ZM \nTradingView：https://www.tradingview.
 	com/symbols/ZM/
@@ -1315,11 +1315,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SSGlKwpys2Nva0e1P5SIx
+UID:bGvnrYsV3NRUB8eReHizE
 SUMMARY: CSCO(思科系统)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250521
-DESCRIPTION:财务季度：Apr/2025 \n公司：思科系统 \n预计每股收益: $0.75，当前市值: 0.22T。\n\n在股票App查
+DESCRIPTION:财务季度：Apr/2025 \n公司：思科系统 \n预计每股收益: $0.75，当前市值: 0.21T。\n\n在股票App查
 	看： stocks://?symbol=CSCO \n在富途查看：https://www.futunn.com/hk/stock/CSCO-US \
 	n在老虎查看：https://www.laohu8.com/stock/CSCO \nTradingView：https://www.trading
 	view.com/symbols/CSCO/
@@ -1332,11 +1332,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qLEUeqh5-twnElQyCW1vo
+UID:MAXL8HUIKgl4_p7_QtH_-
 SUMMARY: INTU(Intuit)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250522
-DESCRIPTION:财务季度：Apr/2025 \n公司：Intuit \n预计每股收益: $9.65，当前市值: 0.16T。\n\n在股票Ap
+DESCRIPTION:财务季度：Apr/2025 \n公司：Intuit \n预计每股收益: $9.65，当前市值: 0.15T。\n\n在股票Ap
 	p查看： stocks://?symbol=INTU \n在富途查看：https://www.futunn.com/hk/stock/INTU-US
 	 \n在老虎查看：https://www.laohu8.com/stock/INTU \nTradingView：https://www.tradi
 	ngview.com/symbols/INTU/
@@ -1349,14 +1349,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UTgcX0drTBfA8sSTOUYNH
+UID:qW2TK9dINyNvBmz5Zc_uw
 SUMMARY: WDAY(Workday)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250522
-DESCRIPTION:财务季度：Apr/2025 \n公司：Workday \n预计每股收益: $0.69，当前市值: 57.30B。\n\n在股票
-	App查看： stocks://?symbol=WDAY \n在富途查看：https://www.futunn.com/hk/stock/WDAY-
-	US \n在老虎查看：https://www.laohu8.com/stock/WDAY \nTradingView：https://www.tra
-	dingview.com/symbols/WDAY/
+DESCRIPTION:财务季度：Apr/2025 \n公司：Workday \n预计每股收益: $0.69，当前市值: 56B。\n\n在股票App
+	查看： stocks://?symbol=WDAY \n在富途查看：https://www.futunn.com/hk/stock/WDAY-US 
+	\n在老虎查看：https://www.laohu8.com/stock/WDAY \nTradingView：https://www.tradin
+	gview.com/symbols/WDAY/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -1366,14 +1366,14 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IR08ksvmxC2MywSDYb-Z7
+UID:zQ7L6kxZUJpvu2FPj0ux8
 SUMMARY: ROST(罗斯百货)发布财报
-DTSTAMP:20250409T044049Z
+DTSTAMP:20250409T164609Z
 DTSTART;VALUE=DATE:20250522
-DESCRIPTION:财务季度：Apr/2025 \n公司：罗斯百货 \n预计每股收益: $1.42，当前市值: 42B。\n\n在股票App查看：
-	 stocks://?symbol=ROST \n在富途查看：https://www.futunn.com/hk/stock/ROST-US \n在
-	老虎查看：https://www.laohu8.com/stock/ROST \nTradingView：https://www.tradingvi
-	ew.com/symbols/ROST/
+DESCRIPTION:财务季度：Apr/2025 \n公司：罗斯百货 \n预计每股收益: $1.42，当前市值: 41.70B。\n\n在股票App
+	查看： stocks://?symbol=ROST \n在富途查看：https://www.futunn.com/hk/stock/ROST-US 
+	\n在老虎查看：https://www.laohu8.com/stock/ROST \nTradingView：https://www.tradin
+	gview.com/symbols/ROST/
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
