@@ -1,9 +1,13 @@
 {
-    "updated": "2025-05-21 10:24:49",
+    "updated": "2025-06-03 10:16:54",
     "groups": [
         {
             "name": "重点ETF",
             "list": [
+                {
+                    "symbol": "XAR",
+                    "name": "SPDR S&P Aerospace & Defense ETF"
+                },
                 {
                     "symbol": "XLK",
                     "name": "高科技指数ETF-SPDR"
@@ -279,6 +283,26 @@
             "name": "M1",
             "list": [
                 {
+                    "symbol": "EAT",
+                    "name": "布林克国际"
+                },
+                {
+                    "symbol": "MIMI",
+                    "name": "Mint Incorporation Limited"
+                },
+                {
+                    "symbol": "TEM",
+                    "name": "Tempus AI"
+                },
+                {
+                    "symbol": "SPOT",
+                    "name": "Spotify Technology S.A."
+                },
+                {
+                    "symbol": "GEV",
+                    "name": "GE Vernova Inc."
+                },
+                {
                     "symbol": "SPY",
                     "name": "标普500ETF"
                 },
@@ -380,6 +404,26 @@
             "name": "M2",
             "list": [
                 {
+                    "symbol": "RNMBY",
+                    "name": "Rheinmetall AG"
+                },
+                {
+                    "symbol": "WRD",
+                    "name": "文远知行"
+                },
+                {
+                    "symbol": "FNMA",
+                    "name": "房利美"
+                },
+                {
+                    "symbol": "NVTS",
+                    "name": "纳微半导体"
+                },
+                {
+                    "symbol": "CRWV",
+                    "name": "CoreWeave, Inc."
+                },
+                {
                     "symbol": "GE",
                     "name": "GE航空航天"
                 },
@@ -418,10 +462,6 @@
                 {
                     "symbol": "PLTR",
                     "name": "Palantir Technologies Inc."
-                },
-                {
-                    "symbol": "SPOT",
-                    "name": "Spotify Technology S.A."
                 },
                 {
                     "symbol": "APP",
@@ -477,16 +517,20 @@
             "name": "M3",
             "list": [
                 {
+                    "symbol": "GRMN",
+                    "name": "佳明"
+                },
+                {
+                    "symbol": "BKSY",
+                    "name": "BlackSky Technology Inc."
+                },
+                {
                     "symbol": "WM",
                     "name": "美国废物管理"
                 },
                 {
                     "symbol": "OSCR",
                     "name": "Oscar Health, Inc."
-                },
-                {
-                    "symbol": "EAT",
-                    "name": "布林克国际"
                 },
                 {
                     "symbol": "OPFI",
@@ -549,10 +593,6 @@
                     "name": "Oklo Inc."
                 },
                 {
-                    "symbol": "TEM",
-                    "name": "Tempus AI"
-                },
-                {
                     "symbol": "HIMS",
                     "name": "Hims & Hers Health Inc."
                 },
@@ -563,10 +603,6 @@
                 {
                     "symbol": "DOCS",
                     "name": "Doximity, Inc."
-                },
-                {
-                    "symbol": "COHR",
-                    "name": "COHERENT"
                 },
                 {
                     "symbol": "TMUS",
@@ -893,10 +929,6 @@
                     "name": "Synchrony Financial"
                 },
                 {
-                    "symbol": "DFS",
-                    "name": "发现金融"
-                },
-                {
                     "symbol": "TFC",
                     "name": "Truist Financial Corp"
                 },
@@ -959,8 +991,12 @@
             "name": "量子",
             "list": [
                 {
+                    "symbol": "ARQQ",
+                    "name": "Arqit Quantum Inc."
+                },
+                {
                     "symbol": "QTUM",
-                    "name": "The Defiance Quantum ETF"
+                    "name": "Defiance Quantum ETF"
                 },
                 {
                     "symbol": "RGTI",
@@ -1046,7 +1082,7 @@
                 },
                 {
                     "symbol": "BOTZ",
-                    "name": "Global X Robotics & Artificial Intelligence Thematic ETF"
+                    "name": "Global X Robotics & Artificial Intelligence ETF"
                 },
                 {
                     "symbol": "VRT",
@@ -2034,7 +2070,7 @@
                 },
                 {
                     "symbol": "MOAT",
-                    "name": "Market Vectors Wide Moat Etf"
+                    "name": "VanEck Morningstar Wide Moat ETF"
                 },
                 {
                     "symbol": "XLU",
@@ -2256,6 +2292,10 @@
         {
             "name": "Miss",
             "list": [
+                {
+                    "symbol": "WDAY",
+                    "name": "Workday"
+                },
                 {
                     "symbol": "INOD",
                     "name": "Innodata Inc"
@@ -2543,6 +2583,112 @@
                 {
                     "symbol": "BITX",
                     "name": "2X BITCOIN STRATEGY ETF"
+                }
+            ]
+        },
+        {
+            "name": "机器人",
+            "list": [
+                {
+                    "symbol": "SERV",
+                    "name": "Serve Robotics Inc."
+                },
+                {
+                    "symbol": "RR",
+                    "name": "Richtech Robotics"
+                },
+                {
+                    "symbol": "ARBE",
+                    "name": "Arbe Robotics Ltd."
+                }
+            ]
+        },
+        {
+            "name": "太空",
+            "list": [
+                {
+                    "symbol": "AIR",
+                    "name": "AAR公司"
+                },
+                {
+                    "symbol": "ISSC",
+                    "name": "创新软件"
+                },
+                {
+                    "symbol": "BAESY",
+                    "name": "BAE Systems PLC"
+                },
+                {
+                    "symbol": "EADSY",
+                    "name": "空中客车集团"
+                },
+                {
+                    "symbol": "ATI",
+                    "name": "阿利根尼"
+                },
+                {
+                    "symbol": "ATRO",
+                    "name": "Astronics"
+                },
+                {
+                    "symbol": "GD",
+                    "name": "通用动力"
+                },
+                {
+                    "symbol": "RTX",
+                    "name": "雷神技术公司"
+                },
+                {
+                    "symbol": "GCAD",
+                    "name": "Gabelli Commercial Aerospace & Defense ETF"
+                },
+                {
+                    "symbol": "XAR",
+                    "name": "SPDR S&P Aerospace & Defense ETF"
+                },
+                {
+                    "symbol": "DCO",
+                    "name": "杜科蒙"
+                },
+                {
+                    "symbol": "SIRI",
+                    "name": "Sirius XM Holdings Inc."
+                },
+                {
+                    "symbol": "VSTA",
+                    "name": "Vasta Platform Limited"
+                },
+                {
+                    "symbol": "PL",
+                    "name": "Planet  Labs Pbc"
+                },
+                {
+                    "symbol": "UFO",
+                    "name": "Procure Space ETF"
+                },
+                {
+                    "symbol": "ASTS",
+                    "name": "AST SpaceMobile, Inc."
+                },
+                {
+                    "symbol": "GSAT",
+                    "name": "全球星"
+                },
+                {
+                    "symbol": "RKLB",
+                    "name": "Rocket Lab USA, Inc."
+                },
+                {
+                    "symbol": "IRDM",
+                    "name": "铱星通讯"
+                },
+                {
+                    "symbol": "LUNR",
+                    "name": "Intuitive Machines"
+                },
+                {
+                    "symbol": "BKSY",
+                    "name": "BlackSky Technology Inc."
                 }
             ]
         }
