@@ -1,9 +1,13 @@
 {
-    "updated": "2025-07-17 10:27:32",
+    "updated": "2025-07-18 10:26:36",
     "groups": [
         {
             "name": "重点ETF",
             "list": [
+                {
+                    "symbol": "ITA",
+                    "name": "iShares Dow Jones U.S. Aerospace"
+                },
                 {
                     "symbol": "XSP",
                     "name": "XSP"
@@ -295,12 +299,16 @@
                     "name": "标普500"
                 },
                 {
-                    "symbol": "MRVL",
-                    "name": "迈威尔科技"
+                    "symbol": "QQQ",
+                    "name": "纳指100ETF"
                 },
                 {
-                    "symbol": "APH",
-                    "name": "安诺电子"
+                    "symbol": "SPY",
+                    "name": "标普500ETF"
+                },
+                {
+                    "symbol": "MRVL",
+                    "name": "迈威尔科技"
                 },
                 {
                     "symbol": "EAT",
@@ -313,14 +321,6 @@
                 {
                     "symbol": "GEV",
                     "name": "GE Vernova Inc."
-                },
-                {
-                    "symbol": "SPY",
-                    "name": "标普500ETF"
-                },
-                {
-                    "symbol": "QQQ",
-                    "name": "纳指100ETF"
                 },
                 {
                     "symbol": "META",
@@ -412,16 +412,16 @@
             "name": "M2",
             "list": [
                 {
+                    "symbol": "ITA",
+                    "name": "iShares Dow Jones U.S. Aerospace"
+                },
+                {
                     "symbol": "TDOC",
                     "name": "Teladoc Health Inc."
                 },
                 {
                     "symbol": "TEM",
                     "name": "Tempus AI"
-                },
-                {
-                    "symbol": "RNMBY",
-                    "name": "Rheinmetall AG"
                 },
                 {
                     "symbol": "NVTS",
@@ -524,6 +524,10 @@
         {
             "name": "M3",
             "list": [
+                {
+                    "symbol": "APH",
+                    "name": "安诺电子"
+                },
                 {
                     "symbol": "CORZ",
                     "name": "Core Scientific, Inc."
@@ -2008,6 +2012,10 @@
         {
             "name": "etf",
             "list": [
+                {
+                    "symbol": "BOXX",
+                    "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF"
+                },
                 {
                     "symbol": "DXYZ",
                     "name": "Destiny Tech100 Inc"
