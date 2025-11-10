@@ -1,9 +1,13 @@
 {
-    "updated": "2025-11-07 11:20:37",
+    "updated": "2025-11-10 11:20:50",
     "groups": [
         {
             "name": "重点ETF",
             "list": [
+                {
+                    "symbol": "COPX",
+                    "name": "铜矿ETF-Global X"
+                },
                 {
                     "symbol": "JEPQ",
                     "name": "JPMorgan Nasdaq Equity Premium Income ETF"
@@ -15,10 +19,6 @@
                 {
                     "symbol": "XLK",
                     "name": "高科技指数ETF-SPDR"
-                },
-                {
-                    "symbol": "NUGT",
-                    "name": "二倍做多黄金矿业指数ETF-Direxion"
                 },
                 {
                     "symbol": "SLV",
@@ -55,10 +55,6 @@
                 {
                     "symbol": "$VIX",
                     "name": "标普500波动率指数"
-                },
-                {
-                    "symbol": "TNA",
-                    "name": "罗素2000指数三倍做多ETF-Direxion"
                 },
                 {
                     "symbol": "IWY",
@@ -477,16 +473,8 @@
                     "name": "佳明"
                 },
                 {
-                    "symbol": "WM",
-                    "name": "美国废物管理"
-                },
-                {
                     "symbol": "OSCR",
                     "name": "Oscar Health, Inc."
-                },
-                {
-                    "symbol": "LRN",
-                    "name": "Stride"
                 },
                 {
                     "symbol": "SNOW",
@@ -630,10 +618,6 @@
                     "name": "纳微半导体"
                 },
                 {
-                    "symbol": "TDOC",
-                    "name": "Teladoc Health Inc."
-                },
-                {
                     "symbol": "EAT",
                     "name": "布林克国际"
                 }
@@ -768,6 +752,10 @@
         {
             "name": "半导体",
             "list": [
+                {
+                    "symbol": "SNDK",
+                    "name": "SanDisk Corp"
+                },
                 {
                     "symbol": "STX",
                     "name": "希捷科技"
@@ -1009,6 +997,14 @@
             "name": "能源",
             "list": [
                 {
+                    "symbol": "BE",
+                    "name": "Bloom Energy Corp"
+                },
+                {
+                    "symbol": "BWXT",
+                    "name": "BWX Technologies Inc"
+                },
+                {
                     "symbol": "NXE",
                     "name": "Nexgen Energy Ltd."
                 },
@@ -1109,10 +1105,6 @@
                 {
                     "symbol": "ANET",
                     "name": "Arista Networks, Inc."
-                },
-                {
-                    "symbol": "MRVL",
-                    "name": "迈威尔科技"
                 },
                 {
                     "symbol": "ACN",
@@ -1507,10 +1499,6 @@
                 {
                     "symbol": "MSTU",
                     "name": "T-Rex 2X Long MSTR Daily Target ETF"
-                },
-                {
-                    "symbol": "AMZZ",
-                    "name": "GRANITESHARES 2X LONG AMZN DAILY ETF"
                 }
             ]
         },
@@ -1823,6 +1811,10 @@
         {
             "name": "券商",
             "list": [
+                {
+                    "symbol": "SCHW",
+                    "name": "嘉信理财"
+                },
                 {
                     "symbol": "IBKR",
                     "name": "盈透证券"
@@ -2152,10 +2144,6 @@
                 {
                     "symbol": "ZETA",
                     "name": "Zeta Global Holdings Corp."
-                },
-                {
-                    "symbol": "LRN",
-                    "name": "Stride"
                 },
                 {
                     "symbol": "OPFI",
