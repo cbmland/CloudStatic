@@ -1,4 +1,2477 @@
 {
-    "updated": "2025-12-23 11:23:39",
-    "groups": []
+    "updated": "2025-12-24 11:23:41",
+    "groups": [
+        {
+            "name": "重点ETF",
+            "list": [
+                {
+                    "symbol": "COPX",
+                    "name": "铜矿ETF-Global X"
+                },
+                {
+                    "symbol": "JEPQ",
+                    "name": "JPMorgan Nasdaq Equity Premium Income ETF"
+                },
+                {
+                    "symbol": "$SPX",
+                    "name": "标普500"
+                },
+                {
+                    "symbol": "XLK",
+                    "name": "高科技指数ETF-SPDR"
+                },
+                {
+                    "symbol": "SLV",
+                    "name": "白银ETF-iShares"
+                },
+                {
+                    "symbol": "XBI",
+                    "name": "SPDR S&P Biotech ETF"
+                },
+                {
+                    "symbol": "RSP",
+                    "name": "平均加权指数ETF-Rydex S&P"
+                },
+                {
+                    "symbol": "SHLD",
+                    "name": "Global X Defense Tech ETF"
+                },
+                {
+                    "symbol": "ARKK",
+                    "name": "ARK Innovation ETF"
+                },
+                {
+                    "symbol": "SMH",
+                    "name": "半导体指数ETF-HOLDRs"
+                },
+                {
+                    "symbol": "BITO",
+                    "name": "比特币期货ETF-ProShares"
+                },
+                {
+                    "symbol": "DIA",
+                    "name": "道琼斯ETF"
+                },
+                {
+                    "symbol": "$VIX",
+                    "name": "标普500波动率指数"
+                },
+                {
+                    "symbol": "IWY",
+                    "name": "iShares Russell Top 200 Growth I"
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "罗素2000指数ETF"
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "纳指100ETF"
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "标普500ETF"
+                }
+            ]
+        },
+        {
+            "name": "特别关注",
+            "list": [
+                {
+                    "symbol": "ASML",
+                    "name": "阿斯麦"
+                },
+                {
+                    "symbol": "CONL",
+                    "name": "2倍做多COIN ETF-GraniteShares"
+                },
+                {
+                    "symbol": "ELV",
+                    "name": "Elevance Health"
+                },
+                {
+                    "symbol": "TRV",
+                    "name": "旅行者财产险集团"
+                },
+                {
+                    "symbol": "PANW",
+                    "name": "Palo Alto Networks"
+                },
+                {
+                    "symbol": "MNST",
+                    "name": "怪物饮料"
+                },
+                {
+                    "symbol": "ADBE",
+                    "name": "Adobe"
+                },
+                {
+                    "symbol": "SOXL",
+                    "name": "三倍做多半导体ETF-Direxion Daily"
+                },
+                {
+                    "symbol": "MSTR",
+                    "name": "Strategy"
+                },
+                {
+                    "symbol": "CRWD",
+                    "name": "CrowdStrike Holdings, Inc."
+                },
+                {
+                    "symbol": "ORCL",
+                    "name": "甲骨文"
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc."
+                },
+                {
+                    "symbol": "CYBR",
+                    "name": "Cyber-Ark Software"
+                },
+                {
+                    "symbol": "NOW",
+                    "name": "ServiceNow"
+                },
+                {
+                    "symbol": "DAL",
+                    "name": "达美航空"
+                },
+                {
+                    "symbol": "MDB",
+                    "name": "MongoDB Inc."
+                },
+                {
+                    "symbol": "ISRG",
+                    "name": "直觉外科公司"
+                },
+                {
+                    "symbol": "BBY",
+                    "name": "百思买"
+                },
+                {
+                    "symbol": "GS",
+                    "name": "高盛"
+                },
+                {
+                    "symbol": "EBAY",
+                    "name": "eBay"
+                },
+                {
+                    "symbol": "WMT",
+                    "name": "沃尔玛"
+                },
+                {
+                    "symbol": "AI",
+                    "name": "C3.ai, Inc."
+                },
+                {
+                    "symbol": "MMM",
+                    "name": "3M"
+                },
+                {
+                    "symbol": "MBLY",
+                    "name": "Mobileye Global Inc."
+                },
+                {
+                    "symbol": "PSTG",
+                    "name": "Pure Storage Inc"
+                },
+                {
+                    "symbol": "DELL",
+                    "name": "戴尔"
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "博通"
+                },
+                {
+                    "symbol": "COST",
+                    "name": "好市多"
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "英伟达"
+                },
+                {
+                    "symbol": "SMCI",
+                    "name": "超微电脑"
+                },
+                {
+                    "symbol": "HOOD",
+                    "name": "Robinhood"
+                },
+                {
+                    "symbol": "APP",
+                    "name": "AppLovin Corporation"
+                },
+                {
+                    "symbol": "ABNB",
+                    "name": "爱彼迎"
+                },
+                {
+                    "symbol": "ARM",
+                    "name": "ARM Holdings"
+                },
+                {
+                    "symbol": "MU",
+                    "name": "美光科技"
+                },
+                {
+                    "symbol": "LLY",
+                    "name": "礼来"
+                },
+                {
+                    "symbol": "QCOM",
+                    "name": "高通"
+                },
+                {
+                    "symbol": "SMH",
+                    "name": "半导体指数ETF-HOLDRs"
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "标普500ETF"
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "纳指100ETF"
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "苹果"
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "亚马逊"
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "特斯拉"
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms, Inc."
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "谷歌A"
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "微软"
+                },
+                {
+                    "symbol": "NET",
+                    "name": "Cloudflare, Inc."
+                },
+                {
+                    "symbol": "AXP",
+                    "name": "美国运通"
+                }
+            ]
+        },
+        {
+            "name": "M1",
+            "list": [
+                {
+                    "symbol": "QQQ",
+                    "name": "纳指100ETF"
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "标普500ETF"
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "特斯拉"
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "英伟达"
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "苹果"
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "谷歌A"
+                },
+                {
+                    "symbol": "MRVL",
+                    "name": "迈威尔科技"
+                },
+                {
+                    "symbol": "SPOT",
+                    "name": "Spotify Technology S.A."
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "亚马逊"
+                },
+                {
+                    "symbol": "SMH",
+                    "name": "半导体指数ETF-HOLDRs"
+                },
+                {
+                    "symbol": "DELL",
+                    "name": "戴尔"
+                },
+                {
+                    "symbol": "MU",
+                    "name": "美光科技"
+                },
+                {
+                    "symbol": "AMD",
+                    "name": "美国超微公司"
+                },
+                {
+                    "symbol": "BITO",
+                    "name": "比特币期货ETF-ProShares"
+                },
+                {
+                    "symbol": "MBLY",
+                    "name": "Mobileye Global Inc."
+                },
+                {
+                    "symbol": "DIS",
+                    "name": "迪士尼"
+                },
+                {
+                    "symbol": "BX",
+                    "name": "黑石"
+                },
+                {
+                    "symbol": "BA",
+                    "name": "波音"
+                },
+                {
+                    "symbol": "HOOD",
+                    "name": "Robinhood"
+                },
+                {
+                    "symbol": "MDB",
+                    "name": "MongoDB Inc."
+                },
+                {
+                    "symbol": "RDDT",
+                    "name": "Reddit"
+                }
+            ]
+        },
+        {
+            "name": "M2",
+            "list": [
+                {
+                    "symbol": "LMND",
+                    "name": "Lemonade, Inc."
+                },
+                {
+                    "symbol": "RBLX",
+                    "name": "Roblox Corporation"
+                },
+                {
+                    "symbol": "TEM",
+                    "name": "Tempus AI"
+                },
+                {
+                    "symbol": "IBKR",
+                    "name": "盈透证券"
+                },
+                {
+                    "symbol": "AXP",
+                    "name": "美国运通"
+                },
+                {
+                    "symbol": "ASML",
+                    "name": "阿斯麦"
+                },
+                {
+                    "symbol": "PANW",
+                    "name": "Palo Alto Networks"
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "博通"
+                },
+                {
+                    "symbol": "QCOM",
+                    "name": "高通"
+                },
+                {
+                    "symbol": "SOFI",
+                    "name": "SoFi Technologies Inc."
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc."
+                },
+                {
+                    "symbol": "APP",
+                    "name": "AppLovin Corporation"
+                },
+                {
+                    "symbol": "AFRM",
+                    "name": "Affirm Holdings, Inc."
+                },
+                {
+                    "symbol": "MS",
+                    "name": "摩根士丹利"
+                },
+                {
+                    "symbol": "GS",
+                    "name": "高盛"
+                },
+                {
+                    "symbol": "DAL",
+                    "name": "达美航空"
+                },
+                {
+                    "symbol": "ARM",
+                    "name": "ARM Holdings"
+                },
+                {
+                    "symbol": "NET",
+                    "name": "Cloudflare, Inc."
+                },
+                {
+                    "symbol": "COST",
+                    "name": "好市多"
+                },
+                {
+                    "symbol": "WMT",
+                    "name": "沃尔玛"
+                },
+                {
+                    "symbol": "BRK/B",
+                    "name": "伯克希尔B"
+                }
+            ]
+        },
+        {
+            "name": "M3",
+            "list": [
+                {
+                    "symbol": "SOUN",
+                    "name": "SoundHound AI Inc"
+                },
+                {
+                    "symbol": "APH",
+                    "name": "安诺电子"
+                },
+                {
+                    "symbol": "CORZ",
+                    "name": "Core Scientific, Inc."
+                },
+                {
+                    "symbol": "CRCL",
+                    "name": "Circle Internet Corp."
+                },
+                {
+                    "symbol": "GRMN",
+                    "name": "佳明"
+                },
+                {
+                    "symbol": "OSCR",
+                    "name": "Oscar Health, Inc."
+                },
+                {
+                    "symbol": "SNOW",
+                    "name": "Snowflake"
+                },
+                {
+                    "symbol": "RBRK",
+                    "name": "Rubrik Inc."
+                },
+                {
+                    "symbol": "DDOG",
+                    "name": "Datadog"
+                },
+                {
+                    "symbol": "GRAB",
+                    "name": "Grab Holdings"
+                },
+                {
+                    "symbol": "UPST",
+                    "name": "Upstart Holdings, Inc."
+                },
+                {
+                    "symbol": "NBIS",
+                    "name": "NEBIUS"
+                },
+                {
+                    "symbol": "WDAY",
+                    "name": "Workday"
+                },
+                {
+                    "symbol": "HIMS",
+                    "name": "Hims & Hers Health Inc."
+                },
+                {
+                    "symbol": "EXPE",
+                    "name": "Expedia"
+                },
+                {
+                    "symbol": "DOCS",
+                    "name": "Doximity, Inc."
+                },
+                {
+                    "symbol": "GEV",
+                    "name": "GE Vernova Inc."
+                },
+                {
+                    "symbol": "RMBS",
+                    "name": "Rambus"
+                },
+                {
+                    "symbol": "MRVL",
+                    "name": "迈威尔科技"
+                }
+            ]
+        },
+        {
+            "name": "M4",
+            "list": [
+                {
+                    "symbol": "UUUU",
+                    "name": "Energy Fuels Inc"
+                },
+                {
+                    "symbol": "USAR",
+                    "name": "USA Rare Earth Inc."
+                },
+                {
+                    "symbol": "DASH",
+                    "name": "DoorDash, Inc."
+                },
+                {
+                    "symbol": "COHR",
+                    "name": "COHERENT"
+                },
+                {
+                    "symbol": "CRWD",
+                    "name": "CrowdStrike Holdings, Inc."
+                },
+                {
+                    "symbol": "BBAI",
+                    "name": "BigBear.ai Holdings"
+                },
+                {
+                    "symbol": "IONQ",
+                    "name": "IONQ Inc."
+                },
+                {
+                    "symbol": "TMUS",
+                    "name": "T-Mobile US Inc"
+                },
+                {
+                    "symbol": "ZETA",
+                    "name": "Zeta Global Holdings Corp."
+                },
+                {
+                    "symbol": "OPFI",
+                    "name": "OppFi Inc."
+                },
+                {
+                    "symbol": "INTA",
+                    "name": "Intapp, Inc."
+                },
+                {
+                    "symbol": "FTNT",
+                    "name": "飞塔信息"
+                },
+                {
+                    "symbol": "BKSY",
+                    "name": "BlackSky Technology Inc."
+                },
+                {
+                    "symbol": "INOD",
+                    "name": "Innodata Inc"
+                },
+                {
+                    "symbol": "OKLO",
+                    "name": "Oklo Inc."
+                },
+                {
+                    "symbol": "ITA",
+                    "name": "iShares Dow Jones U.S. Aerospace"
+                },
+                {
+                    "symbol": "MMM",
+                    "name": "3M"
+                },
+                {
+                    "symbol": "LLY",
+                    "name": "礼来"
+                },
+                {
+                    "symbol": "PSTG",
+                    "name": "Pure Storage Inc"
+                },
+                {
+                    "symbol": "GE",
+                    "name": "GE航空航天"
+                },
+                {
+                    "symbol": "NVTS",
+                    "name": "纳微半导体"
+                },
+                {
+                    "symbol": "EAT",
+                    "name": "布林克国际"
+                }
+            ]
+        },
+        {
+            "name": "持有",
+            "list": [
+                {
+                    "symbol": "ASML",
+                    "name": "阿斯麦"
+                },
+                {
+                    "symbol": "BX",
+                    "name": "黑石"
+                },
+                {
+                    "symbol": "CRWD",
+                    "name": "CrowdStrike Holdings, Inc."
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms, Inc."
+                },
+                {
+                    "symbol": "SPOT",
+                    "name": "Spotify Technology S.A."
+                },
+                {
+                    "symbol": "FDX",
+                    "name": "联邦快递"
+                },
+                {
+                    "symbol": "ABNB",
+                    "name": "爱彼迎"
+                },
+                {
+                    "symbol": "AMD",
+                    "name": "美国超微公司"
+                },
+                {
+                    "symbol": "BA",
+                    "name": "波音"
+                },
+                {
+                    "symbol": "DELL",
+                    "name": "戴尔"
+                },
+                {
+                    "symbol": "DIS",
+                    "name": "迪士尼"
+                },
+                {
+                    "symbol": "FAS",
+                    "name": "金融指数ETF-Direxion三倍做多罗素金融股"
+                },
+                {
+                    "symbol": "LLY",
+                    "name": "礼来"
+                },
+                {
+                    "symbol": "MBLY",
+                    "name": "Mobileye Global Inc."
+                },
+                {
+                    "symbol": "MU",
+                    "name": "美光科技"
+                },
+                {
+                    "symbol": "QCOM",
+                    "name": "高通"
+                },
+                {
+                    "symbol": "SSO",
+                    "name": "2倍做多标普500ETF-ProShares"
+                },
+                {
+                    "symbol": "TEAM",
+                    "name": "Atlassian Corporation PLC"
+                }
+            ]
+        },
+        {
+            "name": "FANG",
+            "list": [
+                {
+                    "symbol": "AAPL",
+                    "name": "苹果"
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "亚马逊"
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms, Inc."
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "英伟达"
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "特斯拉"
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "微软"
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "谷歌A"
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "奈飞"
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "标普500ETF"
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "纳指100ETF"
+                },
+                {
+                    "symbol": "SMH",
+                    "name": "半导体指数ETF-HOLDRs"
+                }
+            ]
+        },
+        {
+            "name": "半导体",
+            "list": [
+                {
+                    "symbol": "SNDK",
+                    "name": "SanDisk Corp"
+                },
+                {
+                    "symbol": "STX",
+                    "name": "希捷科技"
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "博通"
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "英伟达"
+                },
+                {
+                    "symbol": "AMD",
+                    "name": "美国超微公司"
+                },
+                {
+                    "symbol": "MU",
+                    "name": "美光科技"
+                },
+                {
+                    "symbol": "QCOM",
+                    "name": "高通"
+                },
+                {
+                    "symbol": "ARM",
+                    "name": "ARM Holdings"
+                },
+                {
+                    "symbol": "ASML",
+                    "name": "阿斯麦"
+                },
+                {
+                    "symbol": "TSM",
+                    "name": "台积电"
+                },
+                {
+                    "symbol": "LRCX",
+                    "name": "拉姆研究"
+                },
+                {
+                    "symbol": "AMAT",
+                    "name": "应用材料"
+                },
+                {
+                    "symbol": "SMH",
+                    "name": "半导体指数ETF-HOLDRs"
+                },
+                {
+                    "symbol": "WDC",
+                    "name": "西部数据"
+                },
+                {
+                    "symbol": "INTC",
+                    "name": "英特尔"
+                },
+                {
+                    "symbol": "SOXL",
+                    "name": "三倍做多半导体ETF-Direxion Daily"
+                },
+                {
+                    "symbol": "RMBS",
+                    "name": "Rambus"
+                },
+                {
+                    "symbol": "MRVL",
+                    "name": "迈威尔科技"
+                }
+            ]
+        },
+        {
+            "name": "金融",
+            "list": [
+                {
+                    "symbol": "SOFI",
+                    "name": "SoFi Technologies Inc."
+                },
+                {
+                    "symbol": "KKR",
+                    "name": "KKR & Co L.P."
+                },
+                {
+                    "symbol": "FAS",
+                    "name": "金融指数ETF-Direxion三倍做多罗素金融股"
+                },
+                {
+                    "symbol": "GS",
+                    "name": "高盛"
+                },
+                {
+                    "symbol": "MS",
+                    "name": "摩根士丹利"
+                },
+                {
+                    "symbol": "JPM",
+                    "name": "摩根大通"
+                },
+                {
+                    "symbol": "WFC",
+                    "name": "富国银行"
+                },
+                {
+                    "symbol": "BAC",
+                    "name": "美国银行"
+                },
+                {
+                    "symbol": "C",
+                    "name": "花旗"
+                },
+                {
+                    "symbol": "HSBC",
+                    "name": "汇丰"
+                },
+                {
+                    "symbol": "AXP",
+                    "name": "美国运通"
+                },
+                {
+                    "symbol": "BLK",
+                    "name": "贝莱德"
+                },
+                {
+                    "symbol": "BX",
+                    "name": "黑石"
+                },
+                {
+                    "symbol": "AIG",
+                    "name": "美国国际集团"
+                },
+                {
+                    "symbol": "MA",
+                    "name": "万事达"
+                },
+                {
+                    "symbol": "V",
+                    "name": "Visa"
+                },
+                {
+                    "symbol": "PYPL",
+                    "name": "PayPal"
+                },
+                {
+                    "symbol": "AFRM",
+                    "name": "Affirm Holdings, Inc."
+                },
+                {
+                    "symbol": "XLF",
+                    "name": "金融ETF"
+                },
+                {
+                    "symbol": "PFSI",
+                    "name": "PennyMac Financial Services, Inc."
+                },
+                {
+                    "symbol": "SYF",
+                    "name": "Synchrony Financial"
+                },
+                {
+                    "symbol": "TFC",
+                    "name": "Truist Financial Corp"
+                },
+                {
+                    "symbol": "BK",
+                    "name": "纽约梅隆银行"
+                }
+            ]
+        },
+        {
+            "name": "BTC",
+            "list": [
+                {
+                    "symbol": "IBIT",
+                    "name": "比特币ETF-iShares"
+                },
+                {
+                    "symbol": "CRCL",
+                    "name": "Circle Internet Corp."
+                },
+                {
+                    "symbol": "RIOT",
+                    "name": "Riot Platforms"
+                },
+                {
+                    "symbol": "IREN",
+                    "name": "IREN Ltd"
+                },
+                {
+                    "symbol": "CLSK",
+                    "name": "CleanSpark, Inc."
+                },
+                {
+                    "symbol": "HOOD",
+                    "name": "Robinhood"
+                },
+                {
+                    "symbol": "MARA",
+                    "name": "MARA Holdings"
+                },
+                {
+                    "symbol": "MSTR",
+                    "name": "Strategy"
+                },
+                {
+                    "symbol": "COIN",
+                    "name": "Coinbase Global, Inc."
+                }
+            ]
+        },
+        {
+            "name": "量子",
+            "list": [
+                {
+                    "symbol": "ARQQ",
+                    "name": "Arqit Quantum Inc."
+                },
+                {
+                    "symbol": "QTUM",
+                    "name": "Defiance Quantum ETF"
+                },
+                {
+                    "symbol": "RGTI",
+                    "name": "Rigetti Computing"
+                },
+                {
+                    "symbol": "QBTS",
+                    "name": "D-Wave Quantum Inc."
+                },
+                {
+                    "symbol": "QUBT",
+                    "name": "Quantum Computing Inc."
+                },
+                {
+                    "symbol": "IONQ",
+                    "name": "IONQ Inc."
+                }
+            ]
+        },
+        {
+            "name": "能源",
+            "list": [
+                {
+                    "symbol": "BE",
+                    "name": "Bloom Energy Corp"
+                },
+                {
+                    "symbol": "BWXT",
+                    "name": "BWX Technologies Inc"
+                },
+                {
+                    "symbol": "NXE",
+                    "name": "Nexgen Energy Ltd."
+                },
+                {
+                    "symbol": "OKLO",
+                    "name": "Oklo Inc."
+                },
+                {
+                    "symbol": "POWL",
+                    "name": "Powell Industries"
+                },
+                {
+                    "symbol": "GEV",
+                    "name": "GE Vernova Inc."
+                },
+                {
+                    "symbol": "EQT",
+                    "name": "EQT能源"
+                },
+                {
+                    "symbol": "CTRA",
+                    "name": "Coterra Energy Inc."
+                },
+                {
+                    "symbol": "NRG",
+                    "name": "NRG能源"
+                },
+                {
+                    "symbol": "CEG",
+                    "name": "Constellation Energy Corp"
+                },
+                {
+                    "symbol": "VST",
+                    "name": "Vistra Energy Corp."
+                },
+                {
+                    "symbol": "CCJ",
+                    "name": "Cameco Corp"
+                }
+            ]
+        },
+        {
+            "name": "AI应用",
+            "list": [
+                {
+                    "symbol": "DUOL",
+                    "name": "多邻国"
+                },
+                {
+                    "symbol": "NBIS",
+                    "name": "NEBIUS"
+                },
+                {
+                    "symbol": "BBAI",
+                    "name": "BigBear.ai Holdings"
+                },
+                {
+                    "symbol": "TEM",
+                    "name": "Tempus AI"
+                },
+                {
+                    "symbol": "OKTA",
+                    "name": "Okta Inc."
+                },
+                {
+                    "symbol": "BOTZ",
+                    "name": "Global X Robotics & Artificial Intelligence ETF"
+                },
+                {
+                    "symbol": "VRT",
+                    "name": "Vertiv Holdings LLC"
+                },
+                {
+                    "symbol": "AI",
+                    "name": "C3.ai, Inc."
+                },
+                {
+                    "symbol": "WDAY",
+                    "name": "Workday"
+                },
+                {
+                    "symbol": "NOW",
+                    "name": "ServiceNow"
+                },
+                {
+                    "symbol": "INTU",
+                    "name": "财捷"
+                },
+                {
+                    "symbol": "CRM",
+                    "name": "赛富时"
+                }
+            ]
+        },
+        {
+            "name": "互联网服务",
+            "list": [
+                {
+                    "symbol": "ANET",
+                    "name": "Arista Networks, Inc."
+                },
+                {
+                    "symbol": "ACN",
+                    "name": "埃森哲"
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc."
+                },
+                {
+                    "symbol": "PANW",
+                    "name": "Palo Alto Networks"
+                },
+                {
+                    "symbol": "ORCL",
+                    "name": "甲骨文"
+                },
+                {
+                    "symbol": "MBLY",
+                    "name": "Mobileye Global Inc."
+                },
+                {
+                    "symbol": "ARLO",
+                    "name": "Arlo Technologies Inc."
+                },
+                {
+                    "symbol": "TEAM",
+                    "name": "Atlassian Corporation PLC"
+                },
+                {
+                    "symbol": "NTNX",
+                    "name": "Nutanix Inc."
+                },
+                {
+                    "symbol": "NOW",
+                    "name": "ServiceNow"
+                },
+                {
+                    "symbol": "APP",
+                    "name": "AppLovin Corporation"
+                },
+                {
+                    "symbol": "ZS",
+                    "name": "Zscaler Inc."
+                },
+                {
+                    "symbol": "PSTG",
+                    "name": "Pure Storage Inc"
+                },
+                {
+                    "symbol": "RDDT",
+                    "name": "Reddit"
+                },
+                {
+                    "symbol": "DDOG",
+                    "name": "Datadog"
+                },
+                {
+                    "symbol": "SPOT",
+                    "name": "Spotify Technology S.A."
+                },
+                {
+                    "symbol": "MDB",
+                    "name": "MongoDB Inc."
+                },
+                {
+                    "symbol": "ISRG",
+                    "name": "直觉外科公司"
+                },
+                {
+                    "symbol": "CRM",
+                    "name": "赛富时"
+                },
+                {
+                    "symbol": "UPWK",
+                    "name": "Upwork Inc."
+                },
+                {
+                    "symbol": "PINS",
+                    "name": "Pinterest, Inc."
+                },
+                {
+                    "symbol": "INTU",
+                    "name": "财捷"
+                },
+                {
+                    "symbol": "ADSK",
+                    "name": "欧特克"
+                },
+                {
+                    "symbol": "NET",
+                    "name": "Cloudflare, Inc."
+                },
+                {
+                    "symbol": "AKAM",
+                    "name": "阿克迈"
+                },
+                {
+                    "symbol": "SNAP",
+                    "name": "Snap Inc"
+                },
+                {
+                    "symbol": "SHOP",
+                    "name": "Shopify Inc"
+                },
+                {
+                    "symbol": "SNOW",
+                    "name": "Snowflake"
+                },
+                {
+                    "symbol": "CYBR",
+                    "name": "Cyber-Ark Software"
+                }
+            ]
+        },
+        {
+            "name": "电脑设备",
+            "list": [
+                {
+                    "symbol": "DELL",
+                    "name": "戴尔"
+                },
+                {
+                    "symbol": "HPQ",
+                    "name": "惠普"
+                },
+                {
+                    "symbol": "SMCI",
+                    "name": "超微电脑"
+                },
+                {
+                    "symbol": "LOGI",
+                    "name": "罗技"
+                }
+            ]
+        },
+        {
+            "name": "Turbo",
+            "list": [
+                {
+                    "symbol": "MRVL",
+                    "name": "迈威尔科技"
+                },
+                {
+                    "symbol": "ANET",
+                    "name": "Arista Networks, Inc."
+                },
+                {
+                    "symbol": "PSTG",
+                    "name": "Pure Storage Inc"
+                },
+                {
+                    "symbol": "CYBR",
+                    "name": "Cyber-Ark Software"
+                },
+                {
+                    "symbol": "UPWK",
+                    "name": "Upwork Inc."
+                },
+                {
+                    "symbol": "SNOW",
+                    "name": "Snowflake"
+                },
+                {
+                    "symbol": "SHOP",
+                    "name": "Shopify Inc"
+                },
+                {
+                    "symbol": "NET",
+                    "name": "Cloudflare, Inc."
+                },
+                {
+                    "symbol": "ADSK",
+                    "name": "欧特克"
+                },
+                {
+                    "symbol": "CRM",
+                    "name": "赛富时"
+                },
+                {
+                    "symbol": "ISRG",
+                    "name": "直觉外科公司"
+                },
+                {
+                    "symbol": "MDB",
+                    "name": "MongoDB Inc."
+                },
+                {
+                    "symbol": "SPOT",
+                    "name": "Spotify Technology S.A."
+                },
+                {
+                    "symbol": "DDOG",
+                    "name": "Datadog"
+                },
+                {
+                    "symbol": "RDDT",
+                    "name": "Reddit"
+                },
+                {
+                    "symbol": "APP",
+                    "name": "AppLovin Corporation"
+                },
+                {
+                    "symbol": "ZS",
+                    "name": "Zscaler Inc."
+                },
+                {
+                    "symbol": "NOW",
+                    "name": "ServiceNow"
+                },
+                {
+                    "symbol": "NTNX",
+                    "name": "Nutanix Inc."
+                },
+                {
+                    "symbol": "TEAM",
+                    "name": "Atlassian Corporation PLC"
+                }
+            ]
+        },
+        {
+            "name": "零售",
+            "list": [
+                {
+                    "symbol": "WMT",
+                    "name": "沃尔玛"
+                },
+                {
+                    "symbol": "BJ",
+                    "name": "BJ批发俱乐部"
+                },
+                {
+                    "symbol": "EBAY",
+                    "name": "eBay"
+                },
+                {
+                    "symbol": "KSS",
+                    "name": "柯尔百货"
+                },
+                {
+                    "symbol": "TGT",
+                    "name": "塔吉特"
+                },
+                {
+                    "symbol": "HD",
+                    "name": "家得宝"
+                },
+                {
+                    "symbol": "COST",
+                    "name": "好市多"
+                },
+                {
+                    "symbol": "BBY",
+                    "name": "百思买"
+                },
+                {
+                    "symbol": "ANF",
+                    "name": "爱芬奇"
+                }
+            ]
+        },
+        {
+            "name": "服饰",
+            "list": [
+                {
+                    "symbol": "ONON",
+                    "name": "On Holding AG"
+                },
+                {
+                    "symbol": "GAP",
+                    "name": "Gap, Inc"
+                },
+                {
+                    "symbol": "LULU",
+                    "name": "lululemon athletica"
+                },
+                {
+                    "symbol": "LEVI",
+                    "name": "李维斯"
+                },
+                {
+                    "symbol": "VSCO",
+                    "name": "维多利亚的秘密"
+                },
+                {
+                    "symbol": "CROX",
+                    "name": "卡骆驰"
+                },
+                {
+                    "symbol": "NKE",
+                    "name": "耐克"
+                }
+            ]
+        },
+        {
+            "name": "SellPut",
+            "list": [
+                {
+                    "symbol": "V",
+                    "name": "Visa"
+                },
+                {
+                    "symbol": "INTU",
+                    "name": "财捷"
+                },
+                {
+                    "symbol": "BRK/B",
+                    "name": "伯克希尔B"
+                },
+                {
+                    "symbol": "COST",
+                    "name": "好市多"
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "特斯拉"
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "博通"
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms, Inc."
+                },
+                {
+                    "symbol": "SPOT",
+                    "name": "Spotify Technology S.A."
+                },
+                {
+                    "symbol": "UNH",
+                    "name": "联合健康"
+                },
+                {
+                    "symbol": "LLY",
+                    "name": "礼来"
+                },
+                {
+                    "symbol": "COIN",
+                    "name": "Coinbase Global, Inc."
+                },
+                {
+                    "symbol": "MSTR",
+                    "name": "Strategy"
+                },
+                {
+                    "symbol": "ASML",
+                    "name": "阿斯麦"
+                },
+                {
+                    "symbol": "CRWD",
+                    "name": "CrowdStrike Holdings, Inc."
+                },
+                {
+                    "symbol": "APP",
+                    "name": "AppLovin Corporation"
+                }
+            ]
+        },
+        {
+            "name": "2X",
+            "list": [
+                {
+                    "symbol": "TQQQ",
+                    "name": "纳指三倍做多ETF"
+                },
+                {
+                    "symbol": "SSO",
+                    "name": "2倍做多标普500ETF-ProShares"
+                },
+                {
+                    "symbol": "QLD",
+                    "name": "2倍做多纳斯达克100指数ETF-ProShares"
+                },
+                {
+                    "symbol": "UPRO",
+                    "name": "三倍做多标普500ETF-ProShares"
+                },
+                {
+                    "symbol": "GGLL",
+                    "name": "2倍做多GOOGL-Direxion"
+                },
+                {
+                    "symbol": "NVDL",
+                    "name": "2倍做多NVDA ETF-GraniteShares"
+                },
+                {
+                    "symbol": "FBL",
+                    "name": "2倍做多META ETF-GraniteShares"
+                },
+                {
+                    "symbol": "MSTU",
+                    "name": "2倍做多MSTR ETF-T-Rex"
+                }
+            ]
+        },
+        {
+            "name": "基建",
+            "list": [
+                {
+                    "symbol": "MMM",
+                    "name": "3M"
+                },
+                {
+                    "symbol": "AA",
+                    "name": "美国铝业"
+                },
+                {
+                    "symbol": "F",
+                    "name": "福特汽车"
+                },
+                {
+                    "symbol": "GE",
+                    "name": "GE航空航天"
+                }
+            ]
+        },
+        {
+            "name": "中概",
+            "list": [
+                {
+                    "symbol": "KWEB",
+                    "name": "中国海外互联网ETF-KraneShares"
+                },
+                {
+                    "symbol": "XIACY",
+                    "name": "小米集团ADR"
+                },
+                {
+                    "symbol": "YANG",
+                    "name": "三倍做空富时中国ETF-Direxion"
+                },
+                {
+                    "symbol": "YINN",
+                    "name": "三倍做多富时中国ETF-Direxion"
+                },
+                {
+                    "symbol": "DIDIY",
+                    "name": "DiDi Global Inc."
+                },
+                {
+                    "symbol": "BABA",
+                    "name": "阿里巴巴"
+                },
+                {
+                    "symbol": "JD",
+                    "name": "京东"
+                },
+                {
+                    "symbol": "NTES",
+                    "name": "网易"
+                },
+                {
+                    "symbol": "WB",
+                    "name": "微博"
+                },
+                {
+                    "symbol": "NIO",
+                    "name": "蔚来"
+                },
+                {
+                    "symbol": "TCEHY",
+                    "name": "腾讯控股ADR"
+                },
+                {
+                    "symbol": "BILI",
+                    "name": "哔哩哔哩"
+                },
+                {
+                    "symbol": "EDU",
+                    "name": "新东方"
+                },
+                {
+                    "symbol": "FUTU",
+                    "name": "富途控股"
+                },
+                {
+                    "symbol": "SE",
+                    "name": "Sea Ltd"
+                },
+                {
+                    "symbol": "LI",
+                    "name": "理想汽车"
+                },
+                {
+                    "symbol": "XPEV",
+                    "name": "小鹏汽车"
+                },
+                {
+                    "symbol": "PDD",
+                    "name": "拼多多"
+                },
+                {
+                    "symbol": "BIDU",
+                    "name": "百度"
+                },
+                {
+                    "symbol": "TME",
+                    "name": "腾讯音乐"
+                }
+            ]
+        },
+        {
+            "name": "传统",
+            "list": [
+                {
+                    "symbol": "TGT",
+                    "name": "塔吉特"
+                },
+                {
+                    "symbol": "URI",
+                    "name": "联合租赁"
+                },
+                {
+                    "symbol": "LOW",
+                    "name": "劳氏"
+                },
+                {
+                    "symbol": "JNJ",
+                    "name": "强生"
+                },
+                {
+                    "symbol": "ABT",
+                    "name": "雅培"
+                },
+                {
+                    "symbol": "MCD",
+                    "name": "麦当劳"
+                },
+                {
+                    "symbol": "WMT",
+                    "name": "沃尔玛"
+                },
+                {
+                    "symbol": "COST",
+                    "name": "好市多"
+                },
+                {
+                    "symbol": "KO",
+                    "name": "可口可乐"
+                }
+            ]
+        },
+        {
+            "name": "出行",
+            "list": [
+                {
+                    "symbol": "EXPE",
+                    "name": "Expedia"
+                },
+                {
+                    "symbol": "BKNG",
+                    "name": "Booking Holdings"
+                },
+                {
+                    "symbol": "ABNB",
+                    "name": "爱彼迎"
+                },
+                {
+                    "symbol": "MMYT",
+                    "name": "MakeMyTrip Limited"
+                },
+                {
+                    "symbol": "LYFT",
+                    "name": "Lyft, Inc."
+                },
+                {
+                    "symbol": "GRAB",
+                    "name": "Grab Holdings"
+                },
+                {
+                    "symbol": "UBER",
+                    "name": "优步"
+                },
+                {
+                    "symbol": "RCL",
+                    "name": "皇家加勒比邮轮"
+                },
+                {
+                    "symbol": "CCL",
+                    "name": "嘉年华邮轮"
+                },
+                {
+                    "symbol": "NCLH",
+                    "name": "挪威邮轮"
+                },
+                {
+                    "symbol": "JETS",
+                    "name": "U.S. Global Jets ETF"
+                },
+                {
+                    "symbol": "DAL",
+                    "name": "达美航空"
+                },
+                {
+                    "symbol": "UAL",
+                    "name": "联合大陆航空"
+                },
+                {
+                    "symbol": "AAL",
+                    "name": "美国航空"
+                },
+                {
+                    "symbol": "LUV",
+                    "name": "西南航空"
+                },
+                {
+                    "symbol": "DIS",
+                    "name": "迪士尼"
+                },
+                {
+                    "symbol": "BA",
+                    "name": "波音"
+                }
+            ]
+        },
+        {
+            "name": "电动车",
+            "list": [
+                {
+                    "symbol": "TSLA",
+                    "name": "特斯拉"
+                },
+                {
+                    "symbol": "NIO",
+                    "name": "蔚来"
+                },
+                {
+                    "symbol": "XPEV",
+                    "name": "小鹏汽车"
+                },
+                {
+                    "symbol": "LI",
+                    "name": "理想汽车"
+                },
+                {
+                    "symbol": "GM",
+                    "name": "通用汽车"
+                },
+                {
+                    "symbol": "RIVN",
+                    "name": "Rivian Automotive, Inc."
+                },
+                {
+                    "symbol": "CAR",
+                    "name": "安飞士"
+                }
+            ]
+        },
+        {
+            "name": "食品饮料",
+            "list": [
+                {
+                    "symbol": "CAVA",
+                    "name": "CAVA Group Inc."
+                },
+                {
+                    "symbol": "PZZA",
+                    "name": "棒约翰"
+                },
+                {
+                    "symbol": "DASH",
+                    "name": "DoorDash, Inc."
+                },
+                {
+                    "symbol": "KO",
+                    "name": "可口可乐"
+                },
+                {
+                    "symbol": "PEP",
+                    "name": "百事可乐"
+                },
+                {
+                    "symbol": "BUD",
+                    "name": "百威英博"
+                },
+                {
+                    "symbol": "SBUX",
+                    "name": "星巴克"
+                },
+                {
+                    "symbol": "MNST",
+                    "name": "怪物饮料"
+                },
+                {
+                    "symbol": "SHAK",
+                    "name": "Shake Shack Inc"
+                },
+                {
+                    "symbol": "DPZ",
+                    "name": "达美乐比萨"
+                },
+                {
+                    "symbol": "HSY",
+                    "name": "好时"
+                },
+                {
+                    "symbol": "CELH",
+                    "name": "Celsius Holdings, Inc."
+                }
+            ]
+        },
+        {
+            "name": "券商",
+            "list": [
+                {
+                    "symbol": "SCHW",
+                    "name": "嘉信理财"
+                },
+                {
+                    "symbol": "IBKR",
+                    "name": "盈透证券"
+                },
+                {
+                    "symbol": "HOOD",
+                    "name": "Robinhood"
+                },
+                {
+                    "symbol": "FUTU",
+                    "name": "富途控股"
+                }
+            ]
+        },
+        {
+            "name": "电商",
+            "list": [
+                {
+                    "symbol": "PDD",
+                    "name": "拼多多"
+                },
+                {
+                    "symbol": "BABA",
+                    "name": "阿里巴巴"
+                },
+                {
+                    "symbol": "JD",
+                    "name": "京东"
+                },
+                {
+                    "symbol": "SE",
+                    "name": "Sea Ltd"
+                }
+            ]
+        },
+        {
+            "name": "疫苗",
+            "list": [
+                {
+                    "symbol": "MRNA",
+                    "name": "Moderna, Inc."
+                },
+                {
+                    "symbol": "PFE",
+                    "name": "辉瑞"
+                },
+                {
+                    "symbol": "BNTX",
+                    "name": "BioNTech SE"
+                },
+                {
+                    "symbol": "XBI",
+                    "name": "SPDR S&P Biotech ETF"
+                },
+                {
+                    "symbol": "TWST",
+                    "name": "Twist Bioscience Corp"
+                },
+                {
+                    "symbol": "MRK",
+                    "name": "默沙东"
+                }
+            ]
+        },
+        {
+            "name": "生化",
+            "list": [
+                {
+                    "symbol": "LLY",
+                    "name": "礼来"
+                }
+            ]
+        },
+        {
+            "name": "etf",
+            "list": [
+                {
+                    "symbol": "BOXX",
+                    "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF"
+                },
+                {
+                    "symbol": "DXYZ",
+                    "name": "Destiny Tech100 Inc"
+                },
+                {
+                    "symbol": "IVW",
+                    "name": "标普500成长股指数ETF-iShares"
+                },
+                {
+                    "symbol": "MTUM",
+                    "name": "MSCI美国动量因素ETF-iShares Edge"
+                },
+                {
+                    "symbol": "RSPH",
+                    "name": "Invesco S&P 500 Equal Weight Health Care ETF"
+                },
+                {
+                    "symbol": "RSPG",
+                    "name": "Invesco S&P 500 Equal Weight Energy ETF"
+                },
+                {
+                    "symbol": "UUP",
+                    "name": "美元ETF-PowerShares DB"
+                },
+                {
+                    "symbol": "VXX",
+                    "name": "短期VIX期货ETN"
+                },
+                {
+                    "symbol": "QLD",
+                    "name": "2倍做多纳斯达克100指数ETF-ProShares"
+                },
+                {
+                    "symbol": "UPRO",
+                    "name": "三倍做多标普500ETF-ProShares"
+                },
+                {
+                    "symbol": "XLE",
+                    "name": "SPDR能源指数ETF"
+                },
+                {
+                    "symbol": "UVXY",
+                    "name": "1.5倍做多短期期货恐慌指数ETF-Proshares"
+                },
+                {
+                    "symbol": "NUGT",
+                    "name": "二倍做多黄金矿业指数ETF-Direxion"
+                },
+                {
+                    "symbol": "SMH",
+                    "name": "半导体指数ETF-HOLDRs"
+                },
+                {
+                    "symbol": "SLV",
+                    "name": "白银ETF-iShares"
+                },
+                {
+                    "symbol": "AGQ",
+                    "name": "2倍做多白银ETF-ProShares"
+                },
+                {
+                    "symbol": "GDX",
+                    "name": "黄金矿业ETF-VanEck"
+                },
+                {
+                    "symbol": "SSO",
+                    "name": "2倍做多标普500ETF-ProShares"
+                },
+                {
+                    "symbol": "XBI",
+                    "name": "SPDR S&P Biotech ETF"
+                },
+                {
+                    "symbol": "XLF",
+                    "name": "金融ETF"
+                },
+                {
+                    "symbol": "$VIX",
+                    "name": "标普500波动率指数"
+                },
+                {
+                    "symbol": "VNQ",
+                    "name": "不动产信托指数ETF-Vanguard"
+                },
+                {
+                    "symbol": "MOAT",
+                    "name": "VanEck Morningstar Wide Moat ETF"
+                },
+                {
+                    "symbol": "XLU",
+                    "name": "公共事业指数ETF-SPDR"
+                },
+                {
+                    "symbol": "XLI",
+                    "name": "工业指数ETF-SPDR"
+                },
+                {
+                    "symbol": "UWM",
+                    "name": "罗素2000指数ETF两倍做多"
+                },
+                {
+                    "symbol": "XLK",
+                    "name": "高科技指数ETF-SPDR"
+                },
+                {
+                    "symbol": "XLB",
+                    "name": "材料ETF"
+                },
+                {
+                    "symbol": "PFF",
+                    "name": "优先股指数ETF-iShares S&P"
+                },
+                {
+                    "symbol": "SOXL",
+                    "name": "三倍做多半导体ETF-Direxion Daily"
+                },
+                {
+                    "symbol": "JETS",
+                    "name": "U.S. Global Jets ETF"
+                },
+                {
+                    "symbol": "UDOW",
+                    "name": "三倍做多道指30ETF-ProShares"
+                },
+                {
+                    "symbol": "DDM",
+                    "name": "2倍做多道指ETF-ProShares"
+                },
+                {
+                    "symbol": "TQQQ",
+                    "name": "纳指三倍做多ETF"
+                },
+                {
+                    "symbol": "DIA",
+                    "name": "道琼斯ETF"
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "纳指100ETF"
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "标普500ETF"
+                },
+                {
+                    "symbol": "VTV",
+                    "name": "Vanguard Value ETF"
+                }
+            ]
+        },
+        {
+            "name": "电信",
+            "list": [
+                {
+                    "symbol": "T",
+                    "name": "At&T"
+                },
+                {
+                    "symbol": "VZ",
+                    "name": "Verizon Comms"
+                },
+                {
+                    "symbol": "TMUS",
+                    "name": "T-Mobile US Inc"
+                }
+            ]
+        },
+        {
+            "name": "医疗健康",
+            "list": [
+                {
+                    "symbol": "DOCS",
+                    "name": "Doximity, Inc."
+                },
+                {
+                    "symbol": "HIMS",
+                    "name": "Hims & Hers Health Inc."
+                },
+                {
+                    "symbol": "NVO",
+                    "name": "诺和诺德"
+                },
+                {
+                    "symbol": "LLY",
+                    "name": "礼来"
+                }
+            ]
+        },
+        {
+            "name": "安全",
+            "list": [
+                {
+                    "symbol": "MBLY",
+                    "name": "Mobileye Global Inc."
+                },
+                {
+                    "symbol": "CRWD",
+                    "name": "CrowdStrike Holdings, Inc."
+                }
+            ]
+        },
+        {
+            "name": "教育",
+            "list": [
+                {
+                    "symbol": "DUOL",
+                    "name": "多邻国"
+                },
+                {
+                    "symbol": "EDU",
+                    "name": "新东方"
+                }
+            ]
+        },
+        {
+            "name": "影视",
+            "list": [
+                {
+                    "symbol": "DIS",
+                    "name": "迪士尼"
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "奈飞"
+                },
+                {
+                    "symbol": "ROKU",
+                    "name": "Roku Inc"
+                }
+            ]
+        },
+        {
+            "name": "Beat",
+            "list": [
+                {
+                    "symbol": "ASTS",
+                    "name": "AST SpaceMobile, Inc."
+                },
+                {
+                    "symbol": "ANET",
+                    "name": "Arista Networks, Inc."
+                },
+                {
+                    "symbol": "ALAB",
+                    "name": "Astera Labs, Inc."
+                },
+                {
+                    "symbol": "ZETA",
+                    "name": "Zeta Global Holdings Corp."
+                },
+                {
+                    "symbol": "OPFI",
+                    "name": "OppFi Inc."
+                },
+                {
+                    "symbol": "NCLH",
+                    "name": "挪威邮轮"
+                },
+                {
+                    "symbol": "EBAY",
+                    "name": "eBay"
+                },
+                {
+                    "symbol": "WDC",
+                    "name": "西部数据"
+                },
+                {
+                    "symbol": "NET",
+                    "name": "Cloudflare, Inc."
+                },
+                {
+                    "symbol": "COHR",
+                    "name": "COHERENT"
+                },
+                {
+                    "symbol": "APP",
+                    "name": "AppLovin Corporation"
+                },
+                {
+                    "symbol": "HIMS",
+                    "name": "Hims & Hers Health Inc."
+                },
+                {
+                    "symbol": "OSCR",
+                    "name": "Oscar Health, Inc."
+                },
+                {
+                    "symbol": "DIS",
+                    "name": "迪士尼"
+                },
+                {
+                    "symbol": "CEG",
+                    "name": "Constellation Energy Corp"
+                },
+                {
+                    "symbol": "CELH",
+                    "name": "Celsius Holdings, Inc."
+                }
+            ]
+        },
+        {
+            "name": "Miss",
+            "list": [
+                {
+                    "symbol": "COHR",
+                    "name": "COHERENT"
+                },
+                {
+                    "symbol": "TTD",
+                    "name": "Trade Desk Inc."
+                },
+                {
+                    "symbol": "RACE",
+                    "name": "法拉利"
+                },
+                {
+                    "symbol": "UPST",
+                    "name": "Upstart Holdings, Inc."
+                },
+                {
+                    "symbol": "AMD",
+                    "name": "美国超微公司"
+                },
+                {
+                    "symbol": "BKSY",
+                    "name": "BlackSky Technology Inc."
+                },
+                {
+                    "symbol": "ETN",
+                    "name": "伊顿"
+                },
+                {
+                    "symbol": "HIMS",
+                    "name": "Hims & Hers Health Inc."
+                },
+                {
+                    "symbol": "NVTS",
+                    "name": "纳微半导体"
+                },
+                {
+                    "symbol": "RCL",
+                    "name": "皇家加勒比邮轮"
+                },
+                {
+                    "symbol": "BUD",
+                    "name": "百威英博"
+                },
+                {
+                    "symbol": "CCJ",
+                    "name": "Cameco Corp"
+                },
+                {
+                    "symbol": "SHAK",
+                    "name": "Shake Shack Inc"
+                },
+                {
+                    "symbol": "LRCX",
+                    "name": "拉姆研究"
+                },
+                {
+                    "symbol": "QCOM",
+                    "name": "高通"
+                },
+                {
+                    "symbol": "GRMN",
+                    "name": "佳明"
+                },
+                {
+                    "symbol": "ARM",
+                    "name": "ARM Holdings"
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc."
+                },
+                {
+                    "symbol": "VST",
+                    "name": "Vistra Energy Corp."
+                },
+                {
+                    "symbol": "UBER",
+                    "name": "优步"
+                },
+                {
+                    "symbol": "DASH",
+                    "name": "DoorDash, Inc."
+                },
+                {
+                    "symbol": "ANET",
+                    "name": "Arista Networks, Inc."
+                },
+                {
+                    "symbol": "SMCI",
+                    "name": "超微电脑"
+                }
+            ]
+        },
+        {
+            "name": "分红",
+            "list": [
+                {
+                    "symbol": "SCHD",
+                    "name": "Schwab US Dividend Equity ETF"
+                },
+                {
+                    "symbol": "JEPI",
+                    "name": "JPMorgan Equity Premium Income ETF"
+                },
+                {
+                    "symbol": "JEPQ",
+                    "name": "JPMorgan Nasdaq Equity Premium Income ETF"
+                },
+                {
+                    "symbol": "SPYD",
+                    "name": "SPDR Portfolio S&P 500 High Dividend ETF"
+                }
+            ]
+        },
+        {
+            "name": "房产",
+            "list": [
+                {
+                    "symbol": "FNMA",
+                    "name": "房利美"
+                },
+                {
+                    "symbol": "FMCC",
+                    "name": "房地美"
+                }
+            ]
+        },
+        {
+            "name": "Multi",
+            "list": [
+                {
+                    "symbol": "SPY",
+                    "name": "标普500ETF"
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "纳指100ETF"
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "罗素2000指数ETF"
+                },
+                {
+                    "symbol": "SMH",
+                    "name": "半导体指数ETF-HOLDRs"
+                },
+                {
+                    "symbol": "BITO",
+                    "name": "比特币期货ETF-ProShares"
+                },
+                {
+                    "symbol": "$VIX",
+                    "name": "标普500波动率指数"
+                },
+                {
+                    "symbol": "BITX",
+                    "name": "2倍比特币期货ETF-Volatility Shares"
+                }
+            ]
+        },
+        {
+            "name": "机器人",
+            "list": [
+                {
+                    "symbol": "SERV",
+                    "name": "Serve Robotics Inc."
+                },
+                {
+                    "symbol": "RR",
+                    "name": "Richtech Robotics"
+                },
+                {
+                    "symbol": "ARBE",
+                    "name": "Arbe Robotics Ltd."
+                }
+            ]
+        },
+        {
+            "name": "太空",
+            "list": [
+                {
+                    "symbol": "JOBY",
+                    "name": "Joby Aviation, Inc."
+                },
+                {
+                    "symbol": "ACHR",
+                    "name": "Archer Aviation Inc."
+                },
+                {
+                    "symbol": "VSAT",
+                    "name": "卫讯公司"
+                },
+                {
+                    "symbol": "AIR",
+                    "name": "AAR公司"
+                },
+                {
+                    "symbol": "ISSC",
+                    "name": "创新软件"
+                },
+                {
+                    "symbol": "BAESY",
+                    "name": "BAE Systems PLC"
+                },
+                {
+                    "symbol": "EADSY",
+                    "name": "空中客车集团"
+                },
+                {
+                    "symbol": "ATI",
+                    "name": "阿利根尼"
+                },
+                {
+                    "symbol": "ATRO",
+                    "name": "Astronics"
+                },
+                {
+                    "symbol": "GD",
+                    "name": "通用动力"
+                },
+                {
+                    "symbol": "RTX",
+                    "name": "雷神技术公司"
+                },
+                {
+                    "symbol": "GCAD",
+                    "name": "Gabelli Commercial Aerospace & Defense ETF"
+                },
+                {
+                    "symbol": "XAR",
+                    "name": "SPDR S&P Aerospace & Defense ETF"
+                },
+                {
+                    "symbol": "DCO",
+                    "name": "杜科蒙"
+                },
+                {
+                    "symbol": "SIRI",
+                    "name": "Sirius XM Holdings Inc."
+                },
+                {
+                    "symbol": "PL",
+                    "name": "Planet  Labs Pbc"
+                },
+                {
+                    "symbol": "UFO",
+                    "name": "Procure Space ETF"
+                },
+                {
+                    "symbol": "ASTS",
+                    "name": "AST SpaceMobile, Inc."
+                },
+                {
+                    "symbol": "GSAT",
+                    "name": "全球星"
+                },
+                {
+                    "symbol": "RKLB",
+                    "name": "Rocket Lab USA, Inc."
+                },
+                {
+                    "symbol": "IRDM",
+                    "name": "铱星通讯"
+                },
+                {
+                    "symbol": "LUNR",
+                    "name": "Intuitive Machines"
+                },
+                {
+                    "symbol": "BKSY",
+                    "name": "BlackSky Technology Inc."
+                }
+            ]
+        }
+    ]
 }
